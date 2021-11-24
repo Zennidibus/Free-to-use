@@ -1,0 +1,228 @@
+<!------------------- BEFORE YOU EDIT: ------------------------------------------------------------------------------->
+<!---|    Make sure you provide square icons, links, etc                                                          |--->
+<!---|    Image placeholder: https://tinyurl.com/p3hdxbd3                                                         |--->
+<!---|    Border color: a03fbe                                                                                    |--->
+<!---|    Text color: e6b4fa                                                                                      |--->
+<!---|    Link color: 000                                                                                         |--->
+<!---|    Note: <div style="color:#e6b4fa;font-weight:500;"> border-width:2px;                                    |--->
+<!---|    Main BG: https://f2.toyhou.se/file/f2-toyhou-se/images/28056968_JoXDcBKVHYJtPAR.png                     |--->
+<!---|    Use CTRL + F to find all and edit to your liking                                                        |--->
+<!-------------------------------------------------------------------------------------------------------------------->
+ 
+<div class="row justify-content-center px-4" style="background:url(https://f2.toyhou.se/file/f2-toyhou-se/images/28056968_JoXDcBKVHYJtPAR.png);background-attachment:fixed;background-position: center;background-size: 1500px 1500px;">
+ <div style="color:#e6b4fa;font-weight:500;">
+  <div class="row justify-content-center">
+   <!--------- LOGO AREA START ------------------------------------>
+   <div class="col-md-8">
+    <div align="center"><img src="https://f2.toyhou.se/file/f2-toyhou-se/images/38565785_iYAATq8tXXcNU74.png?1629187111" class="m-4"></div>
+   </div>
+   <!--------- LOGO AREA END ------------------------------------>
+   <!--------- GREETINGS AREA START ------------------------------------>
+   <div class="col-md-6">
+    <div class="card p-1 mb-0" style="border-width:2px;border-color: #a03fbe;border-top-right-radius:15px;border-top-left-radius:15px;border-bottom-right-radius:0px;border-bottom-left-radius:0px; background:rgba(0,0,0,0.7)"><div align="center"><h2><i class="far fa-water mr-2"></i> Title here <i class="far fa-water mr-2"></i></h2></div></div>
+    <div class="card p-2 mb-4" style="border-width:2px;border-color: #a03fbe;border-top-right-radius:0px;border-top-left-radius:0px;border-bottom-right-radius:15px;border-bottom-left-radius:15px; background:rgba(0,0,0,0.7)">
+     <div class="rounded p-1" style="overflow-x:hidden;overflow-y:auto; height: 350px;">
+      <div align="center">
+        
+       <p><i>"A bit of text here, along with two links <a href="LINK" style="color:#000"><b>here</b></a> and <a href="LINK" style="color:#000"><b>here</b></a>. This could be really long or could be a short sentences."</i></p>
+       
+      <div align="center"><div class="my-1" style="height:1px;width:80%;background-color:#a03fbe;"></div></div><br>
+      
+       <p><b>General Information:</b></p>
+       <p>About this group?</p>
+       
+      <div align="center"><div class="my-1" style="height:1px;width:80%;background-color:#a03fbe;"></div></div><br>
+       <p><b>Another section:</b></p>
+       <p>
+        I dunno what else to put lol
+        <br>
+        Keep this listed maybe
+        <br>
+        Hi this is like a list
+        <br>
+        You like this code?
+        <br>
+        <i>Please enjoy your stay</i>
+       </p>
+      </div>
+     </div>
+    </div>
+   </div>
+   <!--------- GREETINGS AREA END ------------------------------------>
+   <!--------- NOTES AREA START ------------------------------------>
+   <div class="col-md-6">
+    <div class="card p-1 mb-0" style="border-width:2px;border-color: #a03fbe;border-top-right-radius:15px;border-top-left-radius:15px;border-bottom-right-radius:0px;border-bottom-left-radius:0px; background:rgba(0,0,0,0.7)"><div align="center"><h2><i class="far fa-water mr-2"></i>Other info <i class="far fa-water mr-2"></i></h2></div></div>
+    <div class="card p-2 mb-4" style="border-width:2px;border-color: #a03fbe;border-top-right-radius:0px;border-top-left-radius:0px;border-bottom-right-radius:15px;border-bottom-left-radius:15px; background:rgba(0,0,0,0.7)">
+     <div class="rounded p-1" style="overflow-x:hidden;overflow-y:auto; height: 350px;">
+      <div align="center">
+       <p><b>Title here:</b></p>
+       <p>
+        <i class="fas fa-tint mr-2"></i> TBA
+        <br>
+        <i class="fas fa-tint mr-2"></i> TBA
+        <br>
+        <i class="fas fa-tint mr-2"></i> TBA
+        <br>
+        <i class="fas fa-tint mr-2"></i> TBA
+       </p>
+      <div align="center"><div class="my-1" style="height:1px;width:80%;background-color:#a03fbe;"></div></div><br>
+       <p><b>Other title here:</b></p>
+       <p>
+        <i class="fas fa-tint mr-2"></i> TBA
+        <br>
+        <i class="fas fa-tint mr-2"></i> TBA
+        <br>
+        <i class="fas fa-tint mr-2"></i> TBA
+        <br>
+        <i class="fas fa-tint mr-2"></i> TBA
+        <br>
+        <i class="fas fa-tint mr-2"></i> TBA
+       </p>
+      </div>
+     </div>
+    </div>
+   </div>
+   <!--------- NOTES AREA END -------------------------------------->
+   <!--------- SECTION 1 START ------------------------------------>
+   <div class="col-md-3">
+    <div class="card p-1 mb-0" style="border-width:2px;border-color: #a03fbe;border-top-right-radius:15px;border-top-left-radius:15px;border-bottom-right-radius:0px;border-bottom-left-radius:0px; background:rgba(0,0,0,0.7)"><div align="center"><h2><i class="far fa-water mr-2"></i>SECTION TITLE <i class="far fa-water mr-2"></i></h2></div></div>
+    <div class="card p-2 mb-4" style="border-width:2px;border-color: #a03fbe;border-top-right-radius:0px;border-top-left-radius:0px;border-bottom-right-radius:15px;border-bottom-left-radius:15px; background:rgba(0,0,0,0.7)">
+     <a href="LINK" style="color:#e6b4fa;border-width:2px;border-width:2px;border-color: #a03fbe;border-radius:10px; background:rgba(200,220,250,0)" class="btn btn-block rounded-2"><b>LINKNAME</b></a>
+     <a href="LINK" style="color:#e6b4fa;border-width:2px;border-width:2px;border-color: #a03fbe;border-radius:10px; background:rgba(200,220,250,0)" class="btn btn-block rounded-2"><b>LINKNAME</b></a>
+     <a href="LINK" style="color:#e6b4fa;border-width:2px;border-width:2px;border-color: #a03fbe;border-radius:10px; background:rgba(200,220,250,0)" class="btn btn-block rounded-2"><b>LINKNAME</b></a>
+     <a href="LINK" style="color:#e6b4fa;border-width:2px;border-width:2px;border-color: #a03fbe;border-radius:10px; background:rgba(200,220,250,0)" class="btn btn-block rounded-2"><b>LINKNAME</b></a>
+     <a href="LINK" style="color:#e6b4fa;border-width:2px;border-width:2px;border-color: #a03fbe;border-radius:10px; background:rgba(200,220,250,0)" class="btn btn-block rounded-2"><b>LINKNAME</b></a>
+    </div>
+   </div>
+   <!--------- SECTION 1 END ------------------------------------>
+   <!--------- SECTION 2 START ------------------------------------>
+   <div class="col-md-3">
+    <div class="card p-1 mb-0" style="border-width:2px;border-color: #a03fbe;border-top-right-radius:15px;border-top-left-radius:15px;border-bottom-right-radius:0px;border-bottom-left-radius:0px; background:rgba(0,0,0,0.7)"><div align="center"><h2><i class="far fa-water mr-2"></i>SECTION TITLE <i class="far fa-water mr-2"></i></h2></div></div>
+    <div class="card p-2 mb-4" style="border-width:2px;border-color: #a03fbe;border-top-right-radius:0px;border-top-left-radius:0px;border-bottom-right-radius:15px;border-bottom-left-radius:15px; background:rgba(0,0,0,0.7)">
+     <a href="LINK" style="color:#e6b4fa;border-width:2px;border-width:2px;border-color: #a03fbe;border-radius:10px; background:rgba(200,220,250,0)" class="btn btn-block rounded-2"><b>LINKNAME</b></a>
+     <a href="LINK" style="color:#e6b4fa;border-width:2px;border-width:2px;border-color: #a03fbe;border-radius:10px; background:rgba(200,220,250,0)" class="btn btn-block rounded-2"><b>LINKNAME</b></a>
+     <a href="LINK" style="color:#e6b4fa;border-width:2px;border-width:2px;border-color: #a03fbe;border-radius:10px; background:rgba(200,220,250,0)" class="btn btn-block rounded-2"><b>LINKNAME</b></a>
+     <a href="LINK" style="color:#e6b4fa;border-width:2px;border-width:2px;border-color: #a03fbe;border-radius:10px; background:rgba(200,220,250,0)" class="btn btn-block rounded-2"><b>LINKNAME</b></a>
+     <a href="LINK" style="color:#e6b4fa;border-width:2px;border-width:2px;border-color: #a03fbe;border-radius:10px; background:rgba(200,220,250,0)" class="btn btn-block rounded-2"><b>LINKNAME</b></a>
+    </div>
+   </div>
+   <!--------- SECTION 2 END ------------------------------------>
+   <!--------- SECTION 3 START ------------------------------------>
+   <div class="col-md-3">
+    <div class="card p-1 mb-0" style="border-width:2px;border-color: #a03fbe;border-top-right-radius:15px;border-top-left-radius:15px;border-bottom-right-radius:0px;border-bottom-left-radius:0px; background:rgba(0,0,0,0.7)"><div align="center"><h2><i class="far fa-water mr-2"></i>SECTION TITLE <i class="far fa-water mr-2"></i></h2></div></div>
+    <div class="card p-2 mb-4" style="border-width:2px;border-color: #a03fbe;border-top-right-radius:0px;border-top-left-radius:0px;border-bottom-right-radius:15px;border-bottom-left-radius:15px; background:rgba(0,0,0,0.7)">
+     <a href="LINK" style="color:#e6b4fa;border-width:2px;border-width:2px;border-color: #a03fbe;border-radius:10px; background:rgba(200,220,250,0)" class="btn btn-block rounded-2"><b>LINKNAME</b></a>
+     <a href="LINK" style="color:#e6b4fa;border-width:2px;border-width:2px;border-color: #a03fbe;border-radius:10px; background:rgba(200,220,250,0)" class="btn btn-block rounded-2"><b>LINKNAME</b></a>
+     <a href="LINK" style="color:#e6b4fa;border-width:2px;border-width:2px;border-color: #a03fbe;border-radius:10px; background:rgba(200,220,250,0)" class="btn btn-block rounded-2"><b>LINKNAME</b></a>
+     <a href="LINK" style="color:#e6b4fa;border-width:2px;border-width:2px;border-color: #a03fbe;border-radius:10px; background:rgba(200,220,250,0)" class="btn btn-block rounded-2"><b>LINKNAME</b></a>
+     <a href="LINK" style="color:#e6b4fa;border-width:2px;border-width:2px;border-color: #a03fbe;border-radius:10px; background:rgba(200,220,250,0)" class="btn btn-block rounded-2"><b>LINKNAME</b></a>
+    </div>
+   </div>
+   <!--------- SECTION 3 END ------------------------------------>
+   <!--------- SECTION 4 START ------------------------------------>
+   <div class="col-md-3">
+    <div class="card p-1 mb-0" style="border-width:2px;border-color: #a03fbe;border-top-right-radius:15px;border-top-left-radius:15px;border-bottom-right-radius:0px;border-bottom-left-radius:0px; background:rgba(0,0,0,0.7)"><div align="center"><h2><i class="far fa-water mr-2"></i>SECTION TITLE <i class="far fa-water mr-2"></i></h2></div></div>
+    <div class="card p-2 mb-4" style="border-width:2px;border-color: #a03fbe;border-top-right-radius:0px;border-top-left-radius:0px;border-bottom-right-radius:15px;border-bottom-left-radius:15px; background:rgba(0,0,0,0.7)">
+     <a href="LINK" style="color:#e6b4fa;border-width:2px;border-width:2px;border-color: #a03fbe;border-radius:10px; background:rgba(200,220,250,0)" class="btn btn-block rounded-2"><b>LINKNAME</b></a>
+     <a href="LINK" style="color:#e6b4fa;border-width:2px;border-width:2px;border-color: #a03fbe;border-radius:10px; background:rgba(200,220,250,0)" class="btn btn-block rounded-2"><b>LINKNAME</b></a>
+     <a href="LINK" style="color:#e6b4fa;border-width:2px;border-width:2px;border-color: #a03fbe;border-radius:10px; background:rgba(200,220,250,0)" class="btn btn-block rounded-2"><b>LINKNAME</b></a>
+     <a href="LINK" style="color:#e6b4fa;border-width:2px;border-width:2px;border-color: #a03fbe;border-radius:10px; background:rgba(200,220,250,0)" class="btn btn-block rounded-2"><b>LINKNAME</b></a>
+     <a href="LINK" style="color:#e6b4fa;border-width:2px;border-width:2px;border-color: #a03fbe;border-radius:10px; background:rgba(200,220,250,0)" class="btn btn-block rounded-2"><b>LINKNAME</b></a>
+    </div>
+   </div>
+   <!--------- SECTION 4 END ------------------------------------>
+   <!--------- AFFILIATES AREA START ------------------------------------>
+   <div class="col-md-3">
+    <div class="card p-1 mb-0" style="border-width:2px;border-color: #a03fbe;border-top-right-radius:15px;border-top-left-radius:15px;border-bottom-right-radius:0px;border-bottom-left-radius:0px; background:rgba(0,0,0,0.7)"><div align="center"><h2><i class="far fa-water mr-2"></i>Affiliates <i class="far fa-water mr-2"></i></h2></div></div>
+    <div class="card p-2 mb-4" style="border-width:2px;border-color: #a03fbe;border-top-right-radius:0px;border-top-left-radius:0px;border-bottom-right-radius:15px;border-bottom-left-radius:15px; background:rgba(0,0,0,0.7)">
+     <div class="rounded p-1" style="overflow-x:hidden;overflow-y:auto; height: 710px;">
+      <div align="center">
+        <!---|Affiliate 1|--->
+       <a href="LINK" style="color: #e6b4fa;"><img src="https://tinyurl.com/p3hdxbd3" class="d-block mx-auto mb-2 rounded-circle" style="max-height:150px">
+       <div class="card p-1 mb-0" style="border-width:2px;border-color: #a03fbe;border-radius:5px; background:rgba(0,0,0,0.7);margin-top:-50px">NAME </div></a>
+      <br><div class="mb-2" style="height:1px;width:80%;background-color:#a03fbe;"></div><br>
+        <!---|Affiliate 2|--->
+       <a href="LINK" style="color: #e6b4fa;"><img src="https://tinyurl.com/p3hdxbd3" class="d-block mx-auto mb-2 rounded-circle" style="max-height:150px">
+       <div class="card p-1 mb-0" style="border-width:2px;border-color: #a03fbe;border-radius:5px; background:rgba(0,0,0,0.7);margin-top:-50px">NAME </div></a>
+      <br><div class="mb-2" style="height:1px;width:80%;background-color:#a03fbe;"></div><br>
+        <!---|Affiliate 3|--->
+       <a href="LINK" style="color: #e6b4fa;"><img src="https://tinyurl.com/p3hdxbd3" class="d-block mx-auto mb-2 rounded-circle" style="max-height:150px">
+       <div class="card p-1 mb-0" style="border-width:2px;border-color: #a03fbe;border-radius:5px; background:rgba(0,0,0,0.7);margin-top:-50px">NAME </div></a>
+      <br><div class="mb-2" style="height:1px;width:80%;background-color:#a03fbe;"></div><br>
+        <!---|Affiliate 4|--->
+       <a href="LINK" style="color: #e6b4fa;"><img src="https://tinyurl.com/p3hdxbd3" class="d-block mx-auto mb-2 rounded-circle" style="max-height:150px">
+       <div class="card p-1 mb-0" style="border-width:2px;border-color: #a03fbe;border-radius:5px; background:rgba(0,0,0,0.7);margin-top:-50px">NAME </div></a>
+      <br><div class="mb-2" style="height:1px;width:80%;background-color:#a03fbe;"></div><br>
+        <!---|Affiliate 5|--->
+       <a href="LINK" style="color: #e6b4fa;"><img src="https://tinyurl.com/p3hdxbd3" class="d-block mx-auto mb-2 rounded-circle" style="max-height:150px">
+       <div class="card p-1 mb-0" style="border-width:2px;border-color: #a03fbe;border-radius:5px; background:rgba(0,0,0,0.7);margin-top:-50px">NAME </div></a>
+      </div>
+     </div>
+    </div>
+   </div>
+   <!--------- AFFILIATES AREA END -------------------------------------->
+   <!--------- ADMINS AREA START ------------------------------------>
+   <div class="col-md-6">
+    <div class="card p-1 mb-0" style="border-width:2px;border-color: #a03fbe;border-top-right-radius:15px;border-top-left-radius:15px;border-bottom-right-radius:0px;border-bottom-left-radius:0px; background:rgba(0,0,0,0.7)"><div align="center"><h2><i class="far fa-water mr-2"></i>Admins and Mods <i class="far fa-water mr-2"></i></h2></div></div>
+    <div class="card p-1 mb-4" style="border-width:2px;border-color: #a03fbe;border-top-right-radius:0px;border-top-left-radius:0px;border-bottom-right-radius:15px;border-bottom-left-radius:15px; background:rgba(0,0,0,0.7)">
+     <div class="rounded p-1" style="overflow-x:hidden;overflow-y:auto; height: 300px;">
+      <div align="center">
+       <p><h2><i class="far fa-ocean mr-2"></i>Admins <i class="far fa-ocean mr-2"></i></h2></p><br>
+       <div class="row justify-content-center">
+        <!---|Admin 1|--->
+        <a href="LINK" style="color: #e6b4fa;"><img src="https://tinyurl.com/p3hdxbd3" style="max-height:100px;"></a>
+        <!---|Admin 2|--->
+        <a href="LINK" style="color: #e6b4fa;"><img src="https://tinyurl.com/p3hdxbd3" style="max-height:100px;"></a>
+       </div>
+        
+      <br><div class="mb-2" style="height:1px;width:80%;background-color:#a03fbe;"></div><br>
+      
+       <p><h2><i class="far fa-ocean mr-2"></i>Mods <i class="far fa-ocean mr-2"></i></h2></p><br>
+       <div class="row justify-content-center">
+        <!---|Mod 1|--->
+        <a href="LINK" style="color: #e6b4fa;"><img src="https://tinyurl.com/p3hdxbd3" style="max-height:200px;"></a>
+        <!---|Mod 2|--->
+        <a href="LINK" style="color: #e6b4fa;"><img src="https://tinyurl.com/p3hdxbd3" style="max-height:200px;"></a>
+        <!---|Mod 3|--->
+        <a href="LINK" style="color: #e6b4fa;"><img src="https://tinyurl.com/p3hdxbd3" style="max-height:200px;"></a>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="card p-1 mb-0" style="border-width:2px;border-color: #a03fbe;border-top-right-radius:15px;border-top-left-radius:15px;border-bottom-right-radius:0px;border-bottom-left-radius:0px; background:rgba(0,0,0,0.7)"><div align="center"><h2><i class="far fa-water mr-2"></i>World Map <i class="far fa-water mr-2"></i></h2></div></div>
+    <div class="card p-2 mb-4" style="border-width:2px;border-color: #a03fbe;border-top-right-radius:0px;border-top-left-radius:0px;border-bottom-right-radius:15px;border-bottom-left-radius:15px;background:url(https://f2.toyhou.se/file/f2-toyhou-se/images/36642934_Fw5S1XFUbmfXhY6.png?1629187111) no-repeat center;background-size:cover;height:350px">
+    </div>
+   </div>
+   <!--------- ADMINS AREA END -------------------------------------->
+   <!--------- MASCOTS AREA START ------------------------------------>
+   <div class="col-md-3">
+    <div class="card p-1 mb-0" style="border-width:2px;border-color: #a03fbe;border-top-right-radius:15px;border-top-left-radius:15px;border-bottom-right-radius:0px;border-bottom-left-radius:0px; background:rgba(0,0,0,0.7)"><div align="center"><h2><i class="far fa-water mr-2"></i>Mascots <i class="far fa-water mr-2"></i></h2></div></div>
+    <div class="card p-2 mb-4" style="border-width:2px;border-color: #a03fbe;border-top-right-radius:0px;border-top-left-radius:0px;border-bottom-right-radius:15px;border-bottom-left-radius:15px; background:rgba(0,0,0,0.7)">
+     <div class="rounded p-1" style="overflow-x:hidden;overflow-y:auto; height: 710px;">
+      <div align="center">
+        <!---|Mascot 1|--->
+       <a href="LINK" style="color: #e6b4fa;"><img src="https://tinyurl.com/p3hdxbd3" class="d-block mx-auto mb-2 rounded-circle" style="max-height:150px">
+       <div class="card p-1 mb-0" style="border-width:2px;border-color: #a03fbe;border-radius:5px; background:rgba(0,0,0,0.7);margin-top:-50px">NAME </div></a>
+      <br><div class="mb-2" style="height:1px;width:80%;background-color:#a03fbe;"></div><br>
+        <!---|Affiliate 2|--->
+       <a href="LINK" style="color: #e6b4fa;"><img src="https://tinyurl.com/p3hdxbd3" class="d-block mx-auto mb-2 rounded-circle" style="max-height:150px">
+       <div class="card p-1 mb-0" style="border-width:2px;border-color: #a03fbe;border-radius:5px; background:rgba(0,0,0,0.7);margin-top:-50px">NAME </div></a>
+      <br><div class="mb-2" style="height:1px;width:80%;background-color:#a03fbe;"></div><br>
+        <!---|Mascot 3|--->
+       <a href="LINK" style="color: #e6b4fa;"><img src="https://tinyurl.com/p3hdxbd3" class="d-block mx-auto mb-2 rounded-circle" style="max-height:150px;">
+       <div class="card p-1 mb-0" style="border-width:2px;border-color: #a03fbe;border-radius:5px; background:rgba(0,0,0,0.7);margin-top:-50px">NAME </div></a>
+      <br><div class="mb-2" style="height:1px;width:80%;background-color:#a03fbe;"></div><br>
+        <!---|Mascot 4|--->
+       <a href="LINK" style="color: #e6b4fa;"><img src="https://tinyurl.com/p3hdxbd3" class="d-block mx-auto mb-2 rounded-circle" style="max-height:150px">
+       <div class="card p-1 mb-0" style="border-width:2px;border-color: #a03fbe;border-radius:5px; background:rgba(0,0,0,0.7);margin-top:-50px">NAME </div></a>
+      <br><div class="mb-2" style="height:1px;width:80%;background-color:#a03fbe;"></div><br>
+        <!---|Mascot 5|--->
+       <a href="LINK" style="color: #e6b4fa;"><img src="https://tinyurl.com/p3hdxbd3" class="d-block mx-auto mb-2 rounded-circle" style="max-height:150px">
+       <div class="card p-1 mb-0" style="border-width:2px;border-color: #a03fbe;border-radius:5px; background:rgba(0,0,0,0.7);margin-top:-50px">NAME </div></a>
+      </div>
+     </div>
+    </div>
+   </div>
+   <!--------- MASCOTS AREA END -------------------------------------->
+ </div>
+</div>
