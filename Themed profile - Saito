@@ -1,0 +1,79 @@
+<!------------------- BEFORE YOU EDIT: ------------------------------------------------------------------------------->
+<!---|    Make sure you provide square icons, links, etc                                                          |--->
+<!---|    Image placeholder: https://tinyurl.com/p3hdxbd3                                                         |--->
+<!---|    Border color: bb98e7                                                                                    |--->
+<!---|    Text color: 783c96                                                                                      |--->
+<!---|    Note: <div style="color:#783c96;font-weight:500;"> border-width:2px;                                    |--->
+<!---|    Main BG: https://cdn.discordapp.com/attachments/696940442339508324/784424598778282004/Shiva.png         |--->
+<!---|    Use CTRL + F to find all and edit to your liking                                                        |--->
+<!-------------------------------------------------------------------------------------------------------------------->
+ 
+<div class="container">
+ <div style="color:#783c96;font-weight:500;">
+  <div class="row justify-content-center">
+    
+   <div class="col-md-8">
+    <div class="card card-block bg-faded rounded-0 p-2" style="border-color: #bb98e7;border-width:2px;border-radius:25px; background: url(https://www.1zoom.me/big2/224/283238-EiraDicra.jpg);background-size:1500px 1200px; no-repeat center;background-size:cover">
+     <div class="col-md-12"><div style="background:rgba(0,0,0,0); height:75px;"></div></div>
+   <!--------- GREETINGS START HERE ------------------------------------>
+     <div class="card p-3" style="border-color: #bb98e7;border-radius:15px; background:rgba(255,255,255,0.7);">
+      <div class="text-center"><img src="https://64.media.tumblr.com/e75fce15ee4696775af012e17f7686c3/tumblr_oaovpjqzZQ1v6bs4yo2_400.gif" style="max-height:200px;max-width:150px;margin-top:-80px;background-color:#bb98e7" class="img-thumbnail bg-faded border-0 rounded-circle mb-1"></div>
+      
+      <div class="d-flex justify-content-between p-3" style="font-size:21px">
+       <span><i class="fas fa-star mr-2"></i></span>
+       <span>Name</span>
+       <span><i class="fas fa-star mr-2"></i></span>
+       <span>Age</span>
+       <span><i class="fas fa-star mr-2"></i></span>
+       <span>Gender</span>
+       <span><i class="fas fa-star mr-2"></i></span>
+      </div>
+      
+      <div style="overflow-y:auto; overflow-x:hidden; height:150px;">
+       <p>Biodata or anything you'd like to put on your profile. Basically a summary or anything you want people to put here including trigger list and any warning about your gallery.</p>
+       <p>Second row in case you want to be tidy.</p>
+       <p>Third row. Okay I'm done. You can add another row by copying this row.</p>
+      </div>
+      
+      <div class="row">
+       <!---|Deviantart|--->
+       <div class="col px-3 text-center">
+         <!---|Insert the social media link here by replacing LINK with desired link|--->
+        <a href="LINK">
+        <span class="fa-stack fa-2x"><i class="fas fa-fan fa-stack-2x" style="color:rgb(180,140,230)"></i><i class="fab fa-deviantart fa-stack-1x fa-inverse" style="color:rgb(120,60,150)"></i></span>
+        </a>
+       </div>
+       <!---|Twitter|--->
+       <div class="col px-3 text-center">
+         <!---|Insert the social media link here by replacing LINK with desired link|--->
+        <a href="LINK">
+        <span class="fa-stack fa-2x"><i class="fas fa-fan fa-stack-2x" style="color:rgb(180,140,230)"></i><i class="fab fa-twitter fa-stack-1x fa-inverse" style="color:rgb(120,60,150)"></i></span>
+        </a>
+       </div>
+       <!---|FurAffinity|--->
+       <div class="col px-3 text-center">
+         <!---|Insert the social media link here by replacing LINK with desired link|--->
+        <a href="LINK">
+        <span class="fa-stack fa-2x"><i class="fas fa-fan fa-stack-2x" style="color:rgb(180,140,230)"></i><i class="fas fa-paw fa-stack-1x fa-inverse" style="color:rgb(120,60,150)"></i></span>
+        </a>
+       </div>
+       <!---|Ko-Fi|--->
+       <div class="col px-3 text-center">
+         <!---|Insert the social media link here by replacing LINK with desired link|--->
+        <a href="LINK">
+        <span class="fa-stack fa-2x"><i class="fas fa-fan fa-stack-2x" style="color:rgb(180,140,230)"></i><i class="fas fa-coffee fa-stack-1x fa-inverse" style="color:rgb(120,60,150)"></i></span>
+        </a>
+       </div>
+       <!---|Discord|--->
+       <div class="col px-3 text-center">
+        <span class="fa-stack fa-2x"><i class="fas fa-fan fa-stack-2x" style="color:rgb(180,140,230)"></i><i class="fab fa-deviantart fa-stack-1x fa-inverse" style="color:rgb(120,60,150)" title="USERNAME#0000"></i></span>
+       </div>
+      </div>
+      
+     </div>
+   <!--------- GREETINGS ENDS HERE ------------------------------------>
+    </div>
+   </div>
+  </div>
+ </div>
+</div>
