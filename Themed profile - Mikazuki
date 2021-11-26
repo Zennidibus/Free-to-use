@@ -40,33 +40,33 @@
        <div class="col px-3 text-center">
          <!---|Insert the social media link here by replacing LINK with desired link|--->
         <a href="LINK">
-        <span class="fa-stack fa-2x"><i class="fas fa-fan fa-stack-2x" style="color:rgb(90,120,180)"></i><i class="fab fa-deviantart fa-stack-1x fa-inverse" style="color:rgb(30,60,120)"></i></span>
+        <span class="fa-stack fa-2x"><i class="fas fa-moon-stars fa-stack-2x" style="color:rgb(90,120,180)"></i><i class="fab fa-deviantart fa-stack-1x fa-inverse" style="color:rgb(30,60,120)"></i></span>
         </a>
        </div>
        <!---|Twitter|--->
        <div class="col px-3 text-center">
          <!---|Insert the social media link here by replacing LINK with desired link|--->
         <a href="LINK">
-        <span class="fa-stack fa-2x"><i class="fas fa-fan fa-stack-2x" style="color:rgb(90,120,180)"></i><i class="fab fa-twitter fa-stack-1x fa-inverse" style="color:rgb(30,60,120)"></i></span>
+        <span class="fa-stack fa-2x"><i class="fas fa-moon-stars fa-stack-2x" style="color:rgb(90,120,180)"></i><i class="fab fa-twitter fa-stack-1x fa-inverse" style="color:rgb(30,60,120)"></i></span>
         </a>
        </div>
        <!---|FurAffinity|--->
        <div class="col px-3 text-center">
          <!---|Insert the social media link here by replacing LINK with desired link|--->
         <a href="LINK">
-        <span class="fa-stack fa-2x"><i class="fas fa-fan fa-stack-2x" style="color:rgb(90,120,180)"></i><i class="fas fa-paw fa-stack-1x fa-inverse" style="color:rgb(30,60,120)"></i></span>
+        <span class="fa-stack fa-2x"><i class="fas fa-moon-stars fa-stack-2x" style="color:rgb(90,120,180)"></i><i class="fas fa-paw fa-stack-1x fa-inverse" style="color:rgb(30,60,120)"></i></span>
         </a>
        </div>
        <!---|Ko-Fi|--->
        <div class="col px-3 text-center">
          <!---|Insert the social media link here by replacing LINK with desired link|--->
         <a href="LINK">
-        <span class="fa-stack fa-2x"><i class="fas fa-fan fa-stack-2x" style="color:rgb(90,120,180)"></i><i class="fas fa-coffee fa-stack-1x fa-inverse" style="color:rgb(30,60,120)"></i></span>
+        <span class="fa-stack fa-2x"><i class="fas fa-moon-stars fa-stack-2x" style="color:rgb(90,120,180)"></i><i class="fas fa-coffee fa-stack-1x fa-inverse" style="color:rgb(30,60,120)"></i></span>
         </a>
        </div>
        <!---|Discord|--->
        <div class="col px-3 text-center">
-        <span class="fa-stack fa-2x"><i class="fas fa-fan fa-stack-2x" style="color:rgb(90,120,180)"></i><i class="fab fa-deviantart fa-stack-1x fa-inverse" style="color:rgb(30,60,120)" title="USERNAME#0000"></i></span>
+        <span class="fa-stack fa-2x"><i class="fas fa-moon-stars fa-stack-2x" style="color:rgb(90,120,180)"></i><i class="fab fa-deviantart fa-stack-1x fa-inverse" style="color:rgb(30,60,120)" title="USERNAME#0000"></i></span>
        </div>
       </div>
       
