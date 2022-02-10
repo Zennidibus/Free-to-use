@@ -1,0 +1,348 @@
+<!------------------- BEFORE YOU EDIT: ------------------------------------------------------------------------------->
+<!---|    Make sure you provide square icons, links, etc                                                          |--->
+<!---|    Border color: a03fbe                                                                                    |--->
+<!---|    Text color: e6b4fa                                                                                      |--->
+<!---|    Main BG: https://f2.toyhou.se/file/f2-toyhou-se/images/28056968_JoXDcBKVHYJtPAR.png                     |--->
+<!---|    Use CTRL + F to find all and edit to your liking                                                        |--->
+<!-------------------------------------------------------------------------------------------------------------------->
+ 
+<div class="row justify-content-center pl-4 pr-4 pt-4" style="background:url(https://f2.toyhou.se/file/f2-toyhou-se/images/28056968_JoXDcBKVHYJtPAR.png);background-attachment:fixed;background-position: center;background-size: 1500px 2000px;">
+ <div style="color:#e6b4fa;font-weight:500;">
+  <div class="row justify-content-center">
+   <!--------- TITLE AREA START ------------------------------------>
+   <div class="col-md-12">
+    <div class="card p-2 mb-4" style="border-width:2px;border-color: #a03fbe;border-radius:15px; background:rgba(0,0,0,0.7)"><div align="center"><h1><i class="fas fa-star mr-2"></i> FFXIV Timeline <i class="fas fa-star mr-2"></i></h1></div></div>
+   </div>
+    
+   <!--------- NAVIGATION START, START COPY HERE ------------------------------------>
+   <div class="col-md-12">
+    <div class="card p-1 mb-0" style="border-width:2px;border-color: #a03fbe;border-top-right-radius:15px;border-top-left-radius:15px;border-bottom-right-radius:0px;border-bottom-left-radius:0px; background:rgba(0,0,0,0.7)"><div align="center"><h2><i class="fas fa-star mr-2"></i>Navigation <i class="fas fa-star mr-2"></i></h2></div></div>
+    <div class="card p-1 mb-0" style="border-width:2px;border-color: #a03fbe; background:rgba(0,0,0,0.7)">
+     <div align="center">
+      <ul class="nav nav-tabs card-header-tabs row mb-2 justify-content-around">
+       <li class="px-1">
+        <a data-toggle="tab" href="#ARR" class="active"><img style="height:150px;width:150px" src="https://cdn.discordapp.com/attachments/894930437615530005/941235060097552404/ARR_FFXIV_Logo.png"></a>
+       </li>
+       <li class="px-1">
+        <a data-toggle="tab" href="#HW"><img style="height:150px;width:150px" src="https://cdn.discordapp.com/attachments/894930437615530005/941235060563116112/FFXIV_Heavensward.png"></a>
+       </li>
+       <li class="px-1">
+        <a data-toggle="tab" href="#SB"><img style="height:150px;width:150px" src="https://cdn.discordapp.com/attachments/894930437615530005/941235061091602512/FFXIV_Stormblood.png"></a>
+       </li>
+       <li class="px-1">
+        <a data-toggle="tab" href="#SHB"><img style="height:150px;width:150px" src="https://cdn.discordapp.com/attachments/894930437615530005/941235060781228113/FFXIV_Shadowbringers.png"></a>
+       </li>
+       <li class="px-1">
+        <a data-toggle="tab" href="#ENW"><img style="height:150px;width:150px" src="https://cdn.discordapp.com/attachments/894930437615530005/941235060324073512/FFXIV_Endwalker.png"></a>
+       </li>
+      </ul>
+     </div>
+    </div>
+   </div>
+   <!--------- NAVIGATION END, STOPS HERE TO COPY THE TAB ABOVE ------------------------------------>
+   <div class="col-md-12">
+    <div class="tab-content">
+   <!--------- ARR START -------------------------------------------------------------------->
+     <div class="tab-pane fade active show" id="ARR">
+      <div class="card p-3 mb-4" style="border-width:2px;border-color: #a03fbe;border-top-right-radius:0px;border-top-left-radius:0px;border-bottom-right-radius:15px;border-bottom-left-radius:15px; background:rgba(0,0,0,0.7)">
+       
+       <div align="center"><p><h1><i class="fas fa-star mr-2"></i> A REALM REBORN <i class="fas fa-star mr-2"></i></h1></p></div>
+       <div class="px-3 py-2">
+        <ul>
+         <li>TEXT</li>
+         <li>TEXT</li>
+         <li>TEXT</li>
+         <li>TEXT</li>
+         <li>TEXT</li>
+        </ul>
+       </div>
+       <div align="center"><div class="my-2" style="height:1px;width:80%;background-color:#a03fbe;"></div></div>
+       <div align="center"><p><h1><i class="fas fa-star mr-2"></i> THROUGH THE MAELSTORM <i class="fas fa-star mr-2"></i></h1></p></div>
+       <div class="px-3 py-2">
+        <ul>
+         <li>TEXT</li>
+         <li>TEXT</li>
+         <li>TEXT</li>
+         <li>TEXT</li>
+         <li>TEXT</li>
+        </ul>
+       </div>
+       <div align="center"><div class="my-2" style="height:1px;width:80%;background-color:#a03fbe;"></div></div>
+       <div align="center"><p><h1><i class="fas fa-star mr-2"></i> DEFENDERS OF EORZEA <i class="fas fa-star mr-2"></i></h1></p></div>
+       <div class="px-3 py-2">
+        <ul>
+         <li>TEXT</li>
+         <li>TEXT</li>
+         <li>TEXT</li>
+         <li>TEXT</li>
+         <li>TEXT</li>
+        </ul>
+       </div>
+       <div align="center"><div class="my-2" style="height:1px;width:80%;background-color:#a03fbe;"></div></div>
+       <div align="center"><p><h1><i class="fas fa-star mr-2"></i> DREAMS OF ICE <i class="fas fa-star mr-2"></i></h1></p></div>
+       <div class="px-3 py-2">
+        <ul>
+         <li>TEXT</li>
+         <li>TEXT</li>
+         <li>TEXT</li>
+         <li>TEXT</li>
+         <li>TEXT</li>
+        </ul>
+       </div>
+       <div align="center"><div class="my-2" style="height:1px;width:80%;background-color:#a03fbe;"></div></div>
+       <div align="center"><p><h1><i class="fas fa-star mr-2"></i> BEFORE THE FALL <i class="fas fa-star mr-2"></i></h1></p></div>
+       <div class="px-3 py-2">
+        <ul>
+         <li>TEXT</li>
+         <li>TEXT</li>
+         <li>TEXT</li>
+         <li>TEXT</li>
+         <li>TEXT</li>
+        </ul>
+       </div>
+      
+      </div>
+     </div>
+   <!--------- ARR END -------------------------------------------------------------------->
+   <!--------- HW START -------------------------------------------------------------------->
+     <div class="tab-pane fade" id="HW">
+      <div class="card p-3 mb-4" style="border-width:2px;border-color: #a03fbe;border-top-right-radius:0px;border-top-left-radius:0px;border-bottom-right-radius:15px;border-bottom-left-radius:15px; background:rgba(0,0,0,0.7)">
+       
+       <div align="center"><p><h1><i class="fas fa-star mr-2"></i> HEAVENSWARD <i class="fas fa-star mr-2"></i></h1></p></div>
+       <div class="px-3 py-2">
+        <ul>
+         <li>TEXT</li>
+         <li>TEXT</li>
+         <li>TEXT</li>
+         <li>TEXT</li>
+         <li>TEXT</li>
+        </ul>
+       </div>
+       <div align="center"><div class="my-2" style="height:1px;width:80%;background-color:#a03fbe;"></div></div>
+       <div align="center"><p><h1><i class="fas fa-star mr-2"></i> AS GOES LIGHT, SO GOES DARKNESS <i class="fas fa-star mr-2"></i></h1></p></div>
+       <div class="px-3 py-2">
+        <ul>
+         <li>TEXT</li>
+         <li>TEXT</li>
+         <li>TEXT</li>
+         <li>TEXT</li>
+         <li>TEXT</li>
+        </ul>
+       </div>
+       <div align="center"><div class="my-2" style="height:1px;width:80%;background-color:#a03fbe;"></div></div>
+       <div align="center"><p><h1><i class="fas fa-star mr-2"></i> THE GEARS OF CHANGE <i class="fas fa-star mr-2"></i></h1></p></div>
+       <div class="px-3 py-2">
+        <ul>
+         <li>TEXT</li>
+         <li>TEXT</li>
+         <li>TEXT</li>
+         <li>TEXT</li>
+         <li>TEXT</li>
+        </ul>
+       </div>
+       <div align="center"><div class="my-2" style="height:1px;width:80%;background-color:#a03fbe;"></div></div>
+       <div align="center"><p><h1><i class="fas fa-star mr-2"></i> REVENGE OF THE HORDE <i class="fas fa-star mr-2"></i></h1></p></div>
+       <div class="px-3 py-2">
+        <ul>
+         <li>TEXT</li>
+         <li>TEXT</li>
+         <li>TEXT</li>
+         <li>TEXT</li>
+         <li>TEXT</li>
+        </ul>
+       </div>
+       <div align="center"><div class="my-2" style="height:1px;width:80%;background-color:#a03fbe;"></div></div>
+       <div align="center"><p><h1><i class="fas fa-star mr-2"></i> SOUL SURRENDER <i class="fas fa-star mr-2"></i></h1></p></div>
+       <div class="px-3 py-2">
+        <ul>
+         <li>TEXT</li>
+         <li>TEXT</li>
+         <li>TEXT</li>
+         <li>TEXT</li>
+         <li>TEXT</li>
+        </ul>
+       </div>
+       <div align="center"><div class="my-2" style="height:1px;width:80%;background-color:#a03fbe;"></div></div>
+       <div align="center"><p><h1><i class="fas fa-star mr-2"></i> THE FAR EDGE OF FATE <i class="fas fa-star mr-2"></i></h1></p></div>
+       <div class="px-3 py-2">
+        <ul>
+         <li>TEXT</li>
+         <li>TEXT</li>
+         <li>TEXT</li>
+         <li>TEXT</li>
+         <li>TEXT</li>
+        </ul>
+       </div>
+       
+      </div>
+     </div>
+   <!--------- HW END -------------------------------------------------------------------->
+   <!--------- SB START -------------------------------------------------------------------->
+     <div class="tab-pane fade" id="SB">
+      <div class="card p-3 mb-4" style="border-width:2px;border-color: #a03fbe;border-top-right-radius:0px;border-top-left-radius:0px;border-bottom-right-radius:15px;border-bottom-left-radius:15px; background:rgba(0,0,0,0.7)">
+       
+       <div align="center"><p><h1><i class="fas fa-star mr-2"></i> STORMBLOOD <i class="fas fa-star mr-2"></i></h1></p></div>
+       <div class="px-3 py-2">
+        <ul>
+         <li>TEXT</li>
+         <li>TEXT</li>
+         <li>TEXT</li>
+         <li>TEXT</li>
+         <li>TEXT</li>
+        </ul>
+       </div>
+       <div align="center"><div class="my-2" style="height:1px;width:80%;background-color:#a03fbe;"></div></div>
+       <div align="center"><p><h1><i class="fas fa-star mr-2"></i> THE LEGEND RETURNS <i class="fas fa-star mr-2"></i></h1></p></div>
+       <div class="px-3 py-2">
+        <ul>
+         <li>TEXT</li>
+         <li>TEXT</li>
+         <li>TEXT</li>
+         <li>TEXT</li>
+         <li>TEXT</li>
+        </ul>
+       </div>
+       <div align="center"><div class="my-2" style="height:1px;width:80%;background-color:#a03fbe;"></div></div>
+       <div align="center"><p><h1><i class="fas fa-star mr-2"></i> RISE OF A NEW SUN <i class="fas fa-star mr-2"></i></h1></p></div>
+       <div class="px-3 py-2">
+        <ul>
+         <li>TEXT</li>
+         <li>TEXT</li>
+         <li>TEXT</li>
+         <li>TEXT</li>
+         <li>TEXT</li>
+        </ul>
+       </div>
+       <div align="center"><div class="my-2" style="height:1px;width:80%;background-color:#a03fbe;"></div></div>
+       <div align="center"><p><h1><i class="fas fa-star mr-2"></i> UNDER THE MOONLIGHT <i class="fas fa-star mr-2"></i></h1></p></div>
+       <div class="px-3 py-2">
+        <ul>
+         <li>TEXT</li>
+         <li>TEXT</li>
+         <li>TEXT</li>
+         <li>TEXT</li>
+         <li>TEXT</li>
+        </ul>
+       </div>
+       <div align="center"><div class="my-2" style="height:1px;width:80%;background-color:#a03fbe;"></div></div>
+       <div align="center"><p><h1><i class="fas fa-star mr-2"></i> PRELUDE IN VIOLET <i class="fas fa-star mr-2"></i></h1></p></div>
+       <div class="px-3 py-2">
+        <ul>
+         <li>TEXT</li>
+         <li>TEXT</li>
+         <li>TEXT</li>
+         <li>TEXT</li>
+         <li>TEXT</li>
+        </ul>
+       </div>
+       <div align="center"><div class="my-2" style="height:1px;width:80%;background-color:#a03fbe;"></div></div>
+       <div align="center"><p><h1><i class="fas fa-star mr-2"></i> A REQUIEM OFF HEROES <i class="fas fa-star mr-2"></i></h1></p></div>
+       <div class="px-3 py-2">
+        <ul>
+         <li>TEXT</li>
+         <li>TEXT</li>
+         <li>TEXT</li>
+         <li>TEXT</li>
+         <li>TEXT</li>
+        </ul>
+       </div>
+       
+      </div>
+     </div>
+   <!--------- SB END -------------------------------------------------------------------->
+   <!--------- SHB START -------------------------------------------------------------------->
+     <div class="tab-pane fade" id="SHB">
+       <div class="card p-3 mb-4" style="border-width:2px;border-color: #a03fbe;border-top-right-radius:0px;border-top-left-radius:0px;borde-bottom-right-radius:15px;border-bottom-left-radius:15px; background:rgba(0,0,0,0.7)">
+       
+       <div align="center"><p><h1><i class="fas fa-star mr-2"></i> SHADOWBRINGER <i class="fas fa-star mr-2"></i></h1></p></div>
+       <div class="px-3 py-2">
+        <ul>
+         <li>TEXT</li>
+         <li>TEXT</li>
+         <li>TEXT</li>
+         <li>TEXT</li>
+         <li>TEXT</li>
+        </ul>
+       </div>
+       <div align="center"><div class="my-2" style="height:1px;width:80%;background-color:#a03fbe;"></div></div>
+       <div align="center"><p><h1><i class="fas fa-star mr-2"></i> VOWS OF VIRTUE, DEEDS OF CRUELTY <i class="fas fa-star mr-2"></i></h1></p></div>
+       <div class="px-3 py-2">
+        <ul>
+         <li>TEXT</li>
+         <li>TEXT</li>
+         <li>TEXT</li>
+         <li>TEXT</li>
+         <li>TEXT</li>
+        </ul>
+       </div>
+       <div align="center"><div class="my-2" style="height:1px;width:80%;background-color:#a03fbe;"></div></div>
+       <div align="center"><p><h1><i class="fas fa-star mr-2"></i> ECHOES OF THE FALLEN STAR <i class="fas fa-star mr-2"></i></h1></p></div>
+       <div class="px-3 py-2">
+        <ul>
+         <li>TEXT</li>
+         <li>TEXT</li>
+         <li>TEXT</li>
+         <li>TEXT</li>
+         <li>TEXT</li>
+        </ul>
+       </div>
+       <div align="center"><div class="my-2" style="height:1px;width:80%;background-color:#a03fbe;"></div></div>
+       <div align="center"><p><h1><i class="fas fa-star mr-2"></i> REFLECTIONS IN CRYSTAL <i class="fas fa-star mr-2"></i></h1></p></div>
+       <div class="px-3 py-2">
+        <ul>
+         <li>TEXT</li>
+         <li>TEXT</li>
+         <li>TEXT</li>
+         <li>TEXT</li>
+         <li>TEXT</li>
+        </ul>
+       </div>
+       <div align="center"><div class="my-2" style="height:1px;width:80%;background-color:#a03fbe;"></div></div>
+       <div align="center"><p><h1><i class="fas fa-star mr-2"></i> FUTURES REWRITTEN <i class="fas fa-star mr-2"></i></h1></p></div>
+       <div class="px-3 py-2">
+        <ul>
+         <li>TEXT</li>
+         <li>TEXT</li>
+         <li>TEXT</li>
+         <li>TEXT</li>
+         <li>TEXT</li>
+        </ul>
+       </div>
+       <div align="center"><div class="my-2" style="height:1px;width:80%;background-color:#a03fbe;"></div></div>
+       <div align="center"><p><h1><i class="fas fa-star mr-2"></i> DEATH UNTO DAWN <i class="fas fa-star mr-2"></i></h1></p></div>
+       <div class="px-3 py-2">
+        <ul>
+         <li>TEXT</li>
+         <li>TEXT</li>
+         <li>TEXT</li>
+         <li>TEXT</li>
+         <li>TEXT</li>
+        </ul>
+       </div>
+       
+      </div>
+     </div>
+   <!--------- SHB END -------------------------------------------------------------------->
+   <!--------- ENW START -------------------------------------------------------------------->
+     <div class="tab-pane fade" id="ENW">
+      <div class="card p-3 mb-4" style="border-width:2px;border-color: #a03fbe;border-top-right-radius:0px;border-top-left-radius:0px;border-bottom-right-radius:15px;border-bottom-left-radius:15px; background:rgba(0,0,0,0.7)">
+       
+       <div align="center"><p><h1><i class="fas fa-star mr-2"></i> ENDWALKER <i class="fas fa-star mr-2"></i></h1></p></div>
+       <div class="px-3 py-2">
+        <ul>
+         <li>TEXT</li>
+         <li>TEXT</li>
+         <li>TEXT</li>
+         <li>TEXT</li>
+         <li>TEXT</li>
+        </ul>
+       </div>
+       
+      </div>
+     </div>
+   <!--------- ENW END -------------------------------------------------------------------->
+    </div>
+   </div>
+  </div>
+ </div>
+</div>
