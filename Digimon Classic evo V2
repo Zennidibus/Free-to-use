@@ -1,0 +1,710 @@
+<!------------------- BEFORE YOU EDIT: ------------------------------------------------------------------------------->
+<!---|    Make sure you provide square icons, links, etc                                                          |--->
+<!---|    Image placeholder: https://tinyurl.com/p3hdxbd3                                                         |--->
+<!---|    Border color: a03fbe                                                                                    |--->
+<!---|    Text color: e6b4fa                                                                                      |--->
+<!---|    Link color: 3C783C                                                                                      |--->
+<!---|    Main BG: https://f2.toyhou.se/file/f2-toyhou-se/images/28056968_JoXDcBKVHYJtPAR.png                     |--->
+<!---|    Use CTRL + F to find all and edit to your liking                                                        |--->
+<!-------------------------------------------------------------------------------------------------------------------->
+ 
+<div class="row justify-content-center pl-4 pr-4 pt-4" style="background:url(https://f2.toyhou.se/file/f2-toyhou-se/images/28056968_JoXDcBKVHYJtPAR.png);background-attachment:fixed;background-position: center;background-size: 1500px 2000px;">
+ <div style="color:#e6b4fa">
+  <div class="row no-gutter">
+    
+   <!--------- TABS START -------------------------------------------------------------------->
+   <div class="col-md-12">
+    <div class="card p-3 mb-4" style="border-color: #a03fbe;border-radius:15px; background:rgba(0,0,0,0.8)">
+     <div align="center">
+      <h2><i class="fas fa-star m-1"></i>Navigation<i class="fas fa-star m-1"></i></h2>
+      <ul class="nav nav-tabs card-header-tabs row">
+       <li class="col-md-2"><a style="color:#e6b4fa;border-width:2px;border-width:2px;border-color: #a03fbe;border-radius:10px; background:rgba(255,255,255,0)" class="btn btn-block rounded-2 mb-2" data-toggle="tab" href="#FRESH">Fresh</a></li>
+       <li class="col-md-2"><a style="color:#e6b4fa;border-width:2px;border-width:2px;border-color: #a03fbe;border-radius:10px; background:rgba(255,255,255,0)" class="btn btn-block rounded-2 mb-2" data-toggle="tab" href="#INTRAINING">In-Training</a></li>
+       <li class="col-md-2"><a  style="color:#e6b4fa;border-width:2px;border-width:2px;border-color: #a03fbe;border-radius:10px; background:rgba(255,255,255,0)" class="btn btn-block rounded-2 mb-2 active" data-toggle="tab" href="#ROOKIE">Rookie</a></li>
+       <li class="col-md-2"><a style="color:#e6b4fa;border-width:2px;border-width:2px;border-color: #a03fbe;border-radius:10px; background:rgba(255,255,255,0)" class="btn btn-block rounded-2 mb-2" data-toggle="tab" href="#CHAMPION">Champion</a></li>  
+       <li class="col-md-2"><a style="color:#e6b4fa;border-width:2px;border-width:2px;border-color: #a03fbe;border-radius:10px; background:rgba(255,255,255,0)" class="btn btn-block rounded-2 mb-2" data-toggle="tab" href="#ULTIMATE">Ultimate</a></li>
+       <li class="col-md-2"><a style="color:#e6b4fa;border-width:2px;border-width:2px;border-color: #a03fbe;border-radius:10px; background:rgba(255,255,255,0)" class="btn btn-block rounded-2 mb-2" data-toggle="tab" href="#MEGA">Mega</a></li>
+      </ul>
+     </div>
+    </div>
+   </div>
+    
+   <div class="col-md-12">
+    <div class="tab-content">
+   <!--------- FRESH START -------------------------------------------------------------------->
+     <div class="tab-pane" id="FRESH">
+      <div class="row no-gutter">
+       <div class="col-md-6 my-auto">
+        <div class="card p-1 mb-4" style="border-color: #a03fbe;border-radius:15px; background:rgba(0,0,0,0.8)">
+         <div align="center">
+          <h2><i class="fas fa-star m-1"></i>Fresh<i class="fas fa-star m-1"></i></h2>
+         </div>
+        </div>
+        <!---Image here--->
+        <div align="center"><img src="https://f2.toyhou.se/file/f2-toyhou-se/images/36642934_Fw5S1XFUbmfXhY6.png?1629187111" style="max-height:400px" class="mb-4"></div>
+        <!---Biodata here--->
+        <div class="card p-3 mb-4" style="border-color: #a03fbe;border-radius:15px; background:rgba(0,0,0,0.8)">
+         <div align="center">
+          <table class="table table-striped mb-0" style="border:transparent;">
+           <tbody>
+            <tr>
+             <td><b>Name</b></td>
+             <td>NAME</td>
+            </tr>
+            <tr>
+             <td><b>Type</b></td>
+             <td>TYPE</td>
+            </tr>
+            <tr>
+             <td><b>Attribute</b></td>
+             <td>ATTRIBUTE</td>
+            </tr>
+            <tr>
+             <td><b>Family</b></td>
+             <td>FAMILY</td>
+            </tr>
+           </tbody>
+          </table>
+         </div>
+        </div>
+       </div>
+       <div class=" col-md-6 my-auto">
+        <div class="card p-1 mb-0" style="border-color: #a03fbe;border-top-right-radius:15px;border-top-left-radius:15px;border-bottom-right-radius:0px;border-bottom-left-radius:0px; background:rgba(0,0,0,0.8)"><div align="center"><h2><i class="fas fa-star m-1"></i>Appearance<i class="fas fa-star m-1"></i></h2></div></div>
+        <div class="card p-3 mb-4" style="border-color: #a03fbe;border-top-right-radius:0px;border-top-left-radius:0px;border-bottom-right-radius:15px;border-bottom-left-radius:15px;background:rgba(0,0,0,0.8)">
+         <p>TEXT</p>
+         <p>TEXT</p>
+         <p>TEXT</p>
+        </div>
+        <div class="card p-1 mb-0" style="border-color: #a03fbe;border-top-right-radius:15px;border-top-left-radius:15px;border-bottom-right-radius:0px;border-bottom-left-radius:0px; background:rgba(0,0,0,0.8)"><div align="center"><h2><i class="fas fa-star m-1"></i>Attacks<i class="fas fa-star m-1"></i></h2></div></div>
+        <div class="card p-3 mb-4" style="border-color: #a03fbe;border-top-right-radius:0px;border-top-left-radius:0px;border-bottom-right-radius:15px;border-bottom-left-radius:15px;background:rgba(0,0,0,0.8)">
+          <table class="table table-striped mb-0" style="border:transparent;">
+           <tbody>
+           <tr>
+            <td><b>ATTACK</b></td>
+            <td>DESCRIPTION</td>
+           </tr>
+           <tr>
+            <td><b>ATTACK</b></td>
+            <td>DESCRIPTION</td>
+           </tr>
+           <tr>
+            <td><b>ATTACK</b></td>
+            <td>DESCRIPTION</td>
+           </tr>
+           <tr>
+            <td><b>ATTACK</b></td>
+            <td>DESCRIPTION</td>
+           </tr>
+           <tr>
+            <td><b>ATTACK</b></td>
+            <td>DESCRIPTION</td>
+           </tr>
+          </tbody>
+         </table>
+        </div>
+       </div>
+      </div>
+     </div>
+
+   <!--------- IN-TRAINING START -------------------------------------------------------------------->
+     <div class="tab-pane" id="INTRAINING">
+      <div class="row no-gutter">
+       <div class="col-md-6 my-auto">
+        <div class="card p-1 mb-4" style="border-color: #a03fbe;border-radius:15px; background:rgba(0,0,0,0.8)">
+         <div align="center">
+          <h2><i class="fas fa-star m-1"></i>In-Training<i class="fas fa-star m-1"></i></h2>
+         </div>
+        </div>
+        <!---Image here--->
+        <div align="center"><img src="https://f2.toyhou.se/file/f2-toyhou-se/images/36642934_Fw5S1XFUbmfXhY6.png?1629187111" style="max-height:400px" class="mb-4"></div>
+        <!---Biodata here--->
+        <div class="card p-3 mb-4" style="border-color: #a03fbe;border-radius:15px; background:rgba(0,0,0,0.8)">
+         <div align="center">
+          <table class="table table-striped mb-0" style="border:transparent;">
+           <tbody>
+            <tr>
+             <td><b>Name</b></td>
+             <td>NAME</td>
+            </tr>
+            <tr>
+             <td><b>Type</b></td>
+             <td>TYPE</td>
+            </tr>
+            <tr>
+             <td><b>Attribute</b></td>
+             <td>ATTRIBUTE</td>
+            </tr>
+            <tr>
+             <td><b>Family</b></td>
+             <td>FAMILY</td>
+            </tr>
+           </tbody>
+          </table>
+         </div>
+        </div>
+       </div>
+       <div class=" col-md-6 my-auto">
+        <div class="card p-1 mb-0" style="border-color: #a03fbe;border-top-right-radius:15px;border-top-left-radius:15px;border-bottom-right-radius:0px;border-bottom-left-radius:0px; background:rgba(0,0,0,0.8)"><div align="center"><h2><i class="fas fa-star m-1"></i>Appearance<i class="fas fa-star m-1"></i></h2></div></div>
+        <div class="card p-3 mb-4" style="border-color: #a03fbe;border-top-right-radius:0px;border-top-left-radius:0px;border-bottom-right-radius:15px;border-bottom-left-radius:15px;background:rgba(0,0,0,0.8)">
+         <p>TEXT</p>
+         <p>TEXT</p>
+         <p>TEXT</p>
+        </div>
+        <div class="card p-1 mb-0" style="border-color: #a03fbe;border-top-right-radius:15px;border-top-left-radius:15px;border-bottom-right-radius:0px;border-bottom-left-radius:0px; background:rgba(0,0,0,0.8)"><div align="center"><h2><i class="fas fa-star m-1"></i>Attacks<i class="fas fa-star m-1"></i></h2></div></div>
+        <div class="card p-3 mb-4" style="border-color: #a03fbe;border-top-right-radius:0px;border-top-left-radius:0px;border-bottom-right-radius:15px;border-bottom-left-radius:15px;background:rgba(0,0,0,0.8)">
+          <table class="table table-striped mb-0" style="border:transparent;">
+           <tbody>
+           <tr>
+            <td><b>ATTACK</b></td>
+            <td>DESCRIPTION</td>
+           </tr>
+           <tr>
+            <td><b>ATTACK</b></td>
+            <td>DESCRIPTION</td>
+           </tr>
+           <tr>
+            <td><b>ATTACK</b></td>
+            <td>DESCRIPTION</td>
+           </tr>
+           <tr>
+            <td><b>ATTACK</b></td>
+            <td>DESCRIPTION</td>
+           </tr>
+           <tr>
+            <td><b>ATTACK</b></td>
+            <td>DESCRIPTION</td>
+           </tr>
+          </tbody>
+         </table>
+        </div>
+       </div>
+      </div>
+     </div>
+      
+   <!--------- ROOKIE START -------------------------------------------------------------------->
+     <div class="tab-pane active show" id="ROOKIE">
+      <div class="row no-gutter">
+       <div class=" col-md-6 my-auto">
+        <div class="card p-1 mb-4" style="border-color: #a03fbe;border-radius:15px; background:rgba(0,0,0,0.8)">
+         <div align="center">
+          <h2><i class="fas fa-star m-1"></i>Rookie<i class="fas fa-star m-1"></i></h2>
+         </div>
+        </div>
+        <!---Image here--->
+        <div align="center"><img src="https://f2.toyhou.se/file/f2-toyhou-se/images/36642934_Fw5S1XFUbmfXhY6.png?1629187111" style="max-height:400px" class="mb-4"></div>
+        <!---Biodata here--->
+        <div class="card p-3 mb-4" style="border-color: #a03fbe;border-radius:15px; background:rgba(0,0,0,0.8)">
+         <div align="center">
+          <table class="table table-striped mb-0" style="border:transparent;">
+           <tbody>
+            <tr>
+             <td><b>Name</b></td>
+             <td>NAME</td>
+            </tr>
+            <tr>
+             <td><b>Type</b></td>
+             <td>TYPE</td>
+            </tr>
+            <tr>
+             <td><b>Attribute</b></td>
+             <td>ATTRIBUTE</td>
+            </tr>
+            <tr>
+             <td><b>Family</b></td>
+             <td>FAMILY</td>
+            </tr>
+           </tbody>
+          </table>
+         </div>
+        </div>
+       </div>
+       <div class=" col-md-6 my-auto">
+        <div class="card p-1 mb-0" style="border-color: #a03fbe;border-top-right-radius:15px;border-top-left-radius:15px;border-bottom-right-radius:0px;border-bottom-left-radius:0px; background:rgba(0,0,0,0.8)"><div align="center"><h2><i class="fas fa-star m-1"></i>Appearance<i class="fas fa-star m-1"></i></h2></div></div>
+        <div class="card p-3 mb-4" style="border-color: #a03fbe;border-top-right-radius:0px;border-top-left-radius:0px;border-bottom-right-radius:15px;border-bottom-left-radius:15px;background:rgba(0,0,0,0.8)">
+         <p>TEXT</p>
+         <p>TEXT</p>
+         <p>TEXT</p>
+        </div>
+        <div class="card p-1 mb-0" style="border-color: #a03fbe;border-top-right-radius:15px;border-top-left-radius:15px;border-bottom-right-radius:0px;border-bottom-left-radius:0px; background:rgba(0,0,0,0.8)"><div align="center"><h2><i class="fas fa-star m-1"></i>Attacks<i class="fas fa-star m-1"></i></h2></div></div>
+        <div class="card p-3 mb-4" style="border-color: #a03fbe;border-top-right-radius:0px;border-top-left-radius:0px;border-bottom-right-radius:15px;border-bottom-left-radius:15px;background:rgba(0,0,0,0.8)">
+          <table class="table table-striped mb-0" style="border:transparent;">
+           <tbody>
+           <tr>
+            <td><b>ATTACK</b></td>
+            <td>DESCRIPTION</td>
+           </tr>
+           <tr>
+            <td><b>ATTACK</b></td>
+            <td>DESCRIPTION</td>
+           </tr>
+           <tr>
+            <td><b>ATTACK</b></td>
+            <td>DESCRIPTION</td>
+           </tr>
+           <tr>
+            <td><b>ATTACK</b></td>
+            <td>DESCRIPTION</td>
+           </tr>
+           <tr>
+            <td><b>ATTACK</b></td>
+            <td>DESCRIPTION</td>
+           </tr>
+          </tbody>
+         </table>
+        </div>
+       </div>
+      </div>
+     </div>
+
+   <!--------- CHAMPION START -------------------------------------------------------------------->
+     <div class="tab-pane" id="CHAMPION">
+      <div class="row no-gutter">
+       <div class=" col-md-6 my-auto">
+        <div class="card p-1 mb-4" style="border-color: #a03fbe;border-radius:15px; background:rgba(0,0,0,0.8)">
+         <div align="center">
+          <h2><i class="fas fa-star m-1"></i>Champion<i class="fas fa-star m-1"></i></h2>
+         </div>
+        </div>
+        <!---Image here--->
+        <div align="center"><img src="https://f2.toyhou.se/file/f2-toyhou-se/images/36642934_Fw5S1XFUbmfXhY6.png?1629187111" style="max-height:400px" class="mb-4"></div>
+        <!---Biodata here--->
+        <div class="card p-3 mb-4" style="border-color: #a03fbe;border-radius:15px; background:rgba(0,0,0,0.8)">
+         <div align="center">
+          <table class="table table-striped mb-0" style="border:transparent;">
+           <tbody>
+            <tr>
+             <td><b>Name</b></td>
+             <td>NAME</td>
+            </tr>
+            <tr>
+             <td><b>Type</b></td>
+             <td>TYPE</td>
+            </tr>
+            <tr>
+             <td><b>Attribute</b></td>
+             <td>ATTRIBUTE</td>
+            </tr>
+            <tr>
+             <td><b>Family</b></td>
+             <td>FAMILY</td>
+            </tr>
+           </tbody>
+          </table>
+         </div>
+        </div>
+       </div>
+       <div class=" col-md-6 my-auto">
+        <div class="card p-1 mb-0" style="border-color: #a03fbe;border-top-right-radius:15px;border-top-left-radius:15px;border-bottom-right-radius:0px;border-bottom-left-radius:0px; background:rgba(0,0,0,0.8)"><div align="center"><h2><i class="fas fa-star m-1"></i>Appearance<i class="fas fa-star m-1"></i></h2></div></div>
+        <div class="card p-3 mb-4" style="border-color: #a03fbe;border-top-right-radius:0px;border-top-left-radius:0px;border-bottom-right-radius:15px;border-bottom-left-radius:15px;background:rgba(0,0,0,0.8)">
+         <p>TEXT</p>
+         <p>TEXT</p>
+         <p>TEXT</p>
+        </div>
+        <div class="card p-1 mb-0" style="border-color: #a03fbe;border-top-right-radius:15px;border-top-left-radius:15px;border-bottom-right-radius:0px;border-bottom-left-radius:0px; background:rgba(0,0,0,0.8)"><div align="center"><h2><i class="fas fa-star m-1"></i>Attacks<i class="fas fa-star m-1"></i></h2></div></div>
+        <div class="card p-3 mb-4" style="border-color: #a03fbe;border-top-right-radius:0px;border-top-left-radius:0px;border-bottom-right-radius:15px;border-bottom-left-radius:15px;background:rgba(0,0,0,0.8)">
+          <table class="table table-striped mb-0" style="border:transparent;">
+           <tbody>
+           <tr>
+            <td><b>ATTACK</b></td>
+            <td>DESCRIPTION</td>
+           </tr>
+           <tr>
+            <td><b>ATTACK</b></td>
+            <td>DESCRIPTION</td>
+           </tr>
+           <tr>
+            <td><b>ATTACK</b></td>
+            <td>DESCRIPTION</td>
+           </tr>
+           <tr>
+            <td><b>ATTACK</b></td>
+            <td>DESCRIPTION</td>
+           </tr>
+           <tr>
+            <td><b>ATTACK</b></td>
+            <td>DESCRIPTION</td>
+           </tr>
+          </tbody>
+         </table>
+        </div>
+       </div>
+      </div>
+     </div>
+
+   <!--------- ULTIMATE START -------------------------------------------------------------------->
+     <div class="tab-pane" id="ULTIMATE">
+      <div class="row no-gutter">
+       <div class=" col-md-6 my-auto">
+        <div class="card p-1 mb-4" style="border-color: #a03fbe;border-radius:15px; background:rgba(0,0,0,0.8)">
+         <div align="center">
+          <h2><i class="fas fa-star m-1"></i>Ultimate<i class="fas fa-star m-1"></i></h2>
+         </div>
+        </div>
+        <!---Image here--->
+        <div align="center"><img src="https://f2.toyhou.se/file/f2-toyhou-se/images/36642934_Fw5S1XFUbmfXhY6.png?1629187111" style="max-height:400px" class="mb-4"></div>
+        <!---Biodata here--->
+        <div class="card p-3 mb-4" style="border-color: #a03fbe;border-radius:15px; background:rgba(0,0,0,0.8)">
+         <div align="center">
+          <table class="table table-striped mb-0" style="border:transparent;">
+           <tbody>
+            <tr>
+             <td><b>Name</b></td>
+             <td>NAME</td>
+            </tr>
+            <tr>
+             <td><b>Type</b></td>
+             <td>TYPE</td>
+            </tr>
+            <tr>
+             <td><b>Attribute</b></td>
+             <td>ATTRIBUTE</td>
+            </tr>
+            <tr>
+             <td><b>Family</b></td>
+             <td>FAMILY</td>
+            </tr>
+           </tbody>
+          </table>
+         </div>
+        </div>
+       </div>
+       <div class=" col-md-6 my-auto">
+        <div class="card p-1 mb-0" style="border-color: #a03fbe;border-top-right-radius:15px;border-top-left-radius:15px;border-bottom-right-radius:0px;border-bottom-left-radius:0px; background:rgba(0,0,0,0.8)"><div align="center"><h2><i class="fas fa-star m-1"></i>Appearance<i class="fas fa-star m-1"></i></h2></div></div>
+        <div class="card p-3 mb-4" style="border-color: #a03fbe;border-top-right-radius:0px;border-top-left-radius:0px;border-bottom-right-radius:15px;border-bottom-left-radius:15px;background:rgba(0,0,0,0.8)">
+         <p>TEXT</p>
+         <p>TEXT</p>
+         <p>TEXT</p>
+        </div>
+        <div class="card p-1 mb-0" style="border-color: #a03fbe;border-top-right-radius:15px;border-top-left-radius:15px;border-bottom-right-radius:0px;border-bottom-left-radius:0px; background:rgba(0,0,0,0.8)"><div align="center"><h2><i class="fas fa-star m-1"></i>Attacks<i class="fas fa-star m-1"></i></h2></div></div>
+        <div class="card p-3 mb-4" style="border-color: #a03fbe;border-top-right-radius:0px;border-top-left-radius:0px;border-bottom-right-radius:15px;border-bottom-left-radius:15px;background:rgba(0,0,0,0.8)">
+          <table class="table table-striped mb-0" style="border:transparent;">
+           <tbody>
+           <tr>
+            <td><b>ATTACK</b></td>
+            <td>DESCRIPTION</td>
+           </tr>
+           <tr>
+            <td><b>ATTACK</b></td>
+            <td>DESCRIPTION</td>
+           </tr>
+           <tr>
+            <td><b>ATTACK</b></td>
+            <td>DESCRIPTION</td>
+           </tr>
+           <tr>
+            <td><b>ATTACK</b></td>
+            <td>DESCRIPTION</td>
+           </tr>
+           <tr>
+            <td><b>ATTACK</b></td>
+            <td>DESCRIPTION</td>
+           </tr>
+          </tbody>
+         </table>
+        </div>
+       </div>
+      </div>
+     </div>
+
+   <!--------- MEGA START -------------------------------------------------------------------->
+     <div class="tab-pane" id="MEGA">
+      <div class="row no-gutter">
+       <div class=" col-md-6 my-auto">
+        <div class="card p-1 mb-4" style="border-color: #a03fbe;border-radius:15px; background:rgba(0,0,0,0.8)">
+         <div align="center">
+          <h2><i class="fas fa-star m-1"></i>Mega<i class="fas fa-star m-1"></i></h2>
+         </div>
+        </div>
+        <!---Image here--->
+        <div align="center"><img src="https://f2.toyhou.se/file/f2-toyhou-se/images/36642934_Fw5S1XFUbmfXhY6.png?1629187111" style="max-height:400px" class="mb-4"></div>
+        <!---Biodata here--->
+        <div class="card p-3 mb-4" style="border-color: #a03fbe;border-radius:15px; background:rgba(0,0,0,0.8)">
+         <div align="center">
+          <table class="table table-striped mb-0" style="border:transparent;">
+           <tbody>
+            <tr>
+             <td><b>Name</b></td>
+             <td>NAME</td>
+            </tr>
+            <tr>
+             <td><b>Type</b></td>
+             <td>TYPE</td>
+            </tr>
+            <tr>
+             <td><b>Attribute</b></td>
+             <td>ATTRIBUTE</td>
+            </tr>
+            <tr>
+             <td><b>Family</b></td>
+             <td>FAMILY</td>
+            </tr>
+           </tbody>
+          </table>
+         </div>
+        </div>
+       </div>
+       <div class=" col-md-6 my-auto">
+        <div class="card p-1 mb-0" style="border-color: #a03fbe;border-top-right-radius:15px;border-top-left-radius:15px;border-bottom-right-radius:0px;border-bottom-left-radius:0px; background:rgba(0,0,0,0.8)"><div align="center"><h2><i class="fas fa-star m-1"></i>Appearance<i class="fas fa-star m-1"></i></h2></div></div>
+        <div class="card p-3 mb-4" style="border-color: #a03fbe;border-top-right-radius:0px;border-top-left-radius:0px;border-bottom-right-radius:15px;border-bottom-left-radius:15px;background:rgba(0,0,0,0.8)">
+         <p>TEXT</p>
+         <p>TEXT</p>
+         <p>TEXT</p>
+        </div>
+        <div class="card p-1 mb-0" style="border-color: #a03fbe;border-top-right-radius:15px;border-top-left-radius:15px;border-bottom-right-radius:0px;border-bottom-left-radius:0px; background:rgba(0,0,0,0.8)"><div align="center"><h2><i class="fas fa-star m-1"></i>Attacks<i class="fas fa-star m-1"></i></h2></div></div>
+        <div class="card p-3 mb-4" style="border-color: #a03fbe;border-top-right-radius:0px;border-top-left-radius:0px;border-bottom-right-radius:15px;border-bottom-left-radius:15px;background:rgba(0,0,0,0.8)">
+          <table class="table table-striped mb-0" style="border:transparent;">
+           <tbody>
+           <tr>
+            <td><b>ATTACK</b></td>
+            <td>DESCRIPTION</td>
+           </tr>
+           <tr>
+            <td><b>ATTACK</b></td>
+            <td>DESCRIPTION</td>
+           </tr>
+           <tr>
+            <td><b>ATTACK</b></td>
+            <td>DESCRIPTION</td>
+           </tr>
+           <tr>
+            <td><b>ATTACK</b></td>
+            <td>DESCRIPTION</td>
+           </tr>
+           <tr>
+            <td><b>ATTACK</b></td>
+            <td>DESCRIPTION</td>
+           </tr>
+          </tbody>
+         </table>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   
+   <!--------- STATS START -------------------------------------------------------------------->
+   <div class="col-md-4">
+    <div class="card p-1 mb-0" style="border-color: #a03fbe;border-top-right-radius:15px;border-top-left-radius:15px;border-bottom-right-radius:0px;border-bottom-left-radius:0px; background:rgba(0,0,0,0.8)"><div align="center"><h2><i class="fas fa-star m-1"></i>Stats<i class="fas fa-star m-1"></i></h2></div></div>
+    <div class="card p-1 mb-4" style="border-color: #a03fbe;border-top-right-radius:0px;border-top-left-radius:0px;border-bottom-right-radius:15px;border-bottom-left-radius:15px;background:rgba(0,0,0,0.8);overflow-x:hidden;overflow-y:auto;height:450px">
+     <table class="table table-striped mb-0" style="border:transparent;">
+      <tbody>
+       <tr>
+        <td><b>Attack:</b></td>
+        <td>
+         <i class="fas fa-circle"></i><i class="fas fa-circle"></i><i class="fas fa-circle"></i><i class="fas fa-circle"></i><i class="far fa-circle"></i><i class="far fa-circle"></i><i class="far fa-circle"></i><i class="far fa-circle"></i>
+        </td>
+       </tr>
+       <tr>
+        <td><b>Magic attack:</b></td>
+        <td>
+         <i class="fas fa-circle"></i><i class="fas fa-circle"></i><i class="fas fa-circle"></i><i class="fas fa-circle"></i><i class="far fa-circle"></i><i class="far fa-circle"></i><i class="far fa-circle"></i><i class="far fa-circle"></i>
+        </td>
+       </tr>
+       <tr>
+        <td><b>Defense:</b></td>
+        <td>
+         <i class="fas fa-circle"></i><i class="fas fa-circle"></i><i class="fas fa-circle"></i><i class="fas fa-circle"></i><i class="far fa-circle"></i><i class="far fa-circle"></i><i class="far fa-circle"></i><i class="far fa-circle"></i>
+        </td>
+       </tr>
+       <tr>
+        <td><b>Magic defense:</b></td>
+        <td>
+         <i class="fas fa-circle"></i><i class="fas fa-circle"></i><i class="fas fa-circle"></i><i class="fas fa-circle"></i><i class="far fa-circle"></i><i class="far fa-circle"></i><i class="far fa-circle"></i><i class="far fa-circle"></i>
+        </td>
+       </tr>
+       <tr>
+        <td><b>Speed:</b></td>
+        <td>
+         <i class="fas fa-circle"></i><i class="fas fa-circle"></i><i class="fas fa-circle"></i><i class="fas fa-circle"></i><i class="far fa-circle"></i><i class="far fa-circle"></i><i class="far fa-circle"></i><i class="far fa-circle"></i>
+        </td>
+       </tr>
+       <tr>
+        <td><b>Desterity:</b></td>
+        <td>
+         <i class="fas fa-circle"></i><i class="fas fa-circle"></i><i class="fas fa-circle"></i><i class="fas fa-circle"></i><i class="far fa-circle"></i><i class="far fa-circle"></i><i class="far fa-circle"></i><i class="far fa-circle"></i>
+        </td>
+       </tr>
+       <tr>
+        <td><b>Health:</b></td>
+        <td>
+         <i class="fas fa-circle"></i><i class="fas fa-circle"></i><i class="fas fa-circle"></i><i class="fas fa-circle"></i><i class="far fa-circle"></i><i class="far fa-circle"></i><i class="far fa-circle"></i><i class="far fa-circle"></i>
+        </td>
+       </tr>
+       <tr>
+        <td><b>Luck:</b></td>
+        <td>
+         <i class="fas fa-circle"></i><i class="fas fa-circle"></i><i class="fas fa-circle"></i><i class="fas fa-circle"></i><i class="far fa-circle"></i><i class="far fa-circle"></i><i class="far fa-circle"></i><i class="far fa-circle"></i>
+        </td>
+       </tr>
+       <tr>
+        <td><b>Charisma:</b></td>
+        <td>
+         <i class="fas fa-circle"></i><i class="fas fa-circle"></i><i class="fas fa-circle"></i><i class="fas fa-circle"></i><i class="far fa-circle"></i><i class="far fa-circle"></i><i class="far fa-circle"></i><i class="far fa-circle"></i>
+        </td>
+       </tr>
+       <tr>
+        <td><b>Confidence:</b></td>
+        <td>
+         <i class="fas fa-circle"></i><i class="fas fa-circle"></i><i class="fas fa-circle"></i><i class="fas fa-circle"></i><i class="far fa-circle"></i><i class="far fa-circle"></i><i class="far fa-circle"></i><i class="far fa-circle"></i>
+        </td>
+       </tr>
+       <tr>
+        <td><b>Intellect:</b></td>
+        <td>
+         <i class="fas fa-circle"></i><i class="fas fa-circle"></i><i class="fas fa-circle"></i><i class="fas fa-circle"></i><i class="far fa-circle"></i><i class="far fa-circle"></i><i class="far fa-circle"></i><i class="far fa-circle"></i>
+        </td>
+       </tr>
+       <tr>
+        <td><b>Agility:</b></td>
+        <td>
+         <i class="fas fa-circle"></i><i class="fas fa-circle"></i><i class="fas fa-circle"></i><i class="fas fa-circle"></i><i class="far fa-circle"></i><i class="far fa-circle"></i><i class="far fa-circle"></i><i class="far fa-circle"></i>
+        </td>
+       </tr>
+      </tbody>
+     </table>
+    </div>
+   </div>
+   
+   <!--------- LIKES/DISLIKES START -------------------------------------------------------------------->
+   <div class="col-md-4">
+    <div class="card p-1 mb-0" style="border-color: #a03fbe;border-top-right-radius:15px;border-top-left-radius:15px;border-bottom-right-radius:0px;border-bottom-left-radius:0px; background:rgba(0,0,0,0.8)"><div align="center"><h2><i class="fas fa-star m-1"></i>Likes/Dislikes<i class="fas fa-star m-1"></i></h2></div></div>
+    <div class="card p-1 mb-4" style="border-color: #a03fbe;border-top-right-radius:0px;border-top-left-radius:0px;border-bottom-right-radius:15px;border-bottom-left-radius:15px;background:rgba(0,0,0,0.8);overflow-x:hidden;overflow-y:auto;height:450px">
+     <div align="center">
+      <h2><i class="fas fa-star m-1"></i>Likes<i class="fas fa-star m-1"></i></h2>
+      <p><i class="fas fa-check"></i> LIKES</p>
+      <p><i class="fas fa-check"></i> LIKES</p>
+      <p><i class="fas fa-check"></i> LIKES</p>
+      <p><i class="fas fa-check"></i> LIKES</p>
+      <p><i class="fas fa-check"></i> LIKES</p>
+       
+      <br><div align="center"><div class="mb-2" style="height:1px;width:90%;background-color:#a03fbe;"></div></div>
+      <h2><i class="fas fa-star m-1"></i>Dislikes<i class="fas fa-star m-1"></i></h2>
+      <p><i class="fas fa-times"></i> DISLIKES</p>
+      <p><i class="fas fa-times"></i> DISLIKES</p>
+      <p><i class="fas fa-times"></i> DISLIKES</p>
+      <p><i class="fas fa-times"></i> DISLIKES</p>
+      <p><i class="fas fa-times"></i> DISLIKES</p>
+     </div>
+    </div>
+   </div>
+   
+   <!--------- PAGEDOLL 1 START -------------------------------------------------------------------->
+   <div class="col-md-4 my-auto">
+    <div align="center">
+     <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/35200284_Kbs0TDdkgqfwLi3.png?1628260227" class="my-4" style="max-height:400px">
+    </div>
+   </div>
+   
+   <!--------- PAGEDOLL 2 START -------------------------------------------------------------------->
+   <div class="col-md-4 my-auto">
+    <div align="center">
+     <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/35200284_Kbs0TDdkgqfwLi3.png?1628260227" class="my-4" style="max-height:400px">
+    </div>
+   </div>
+   
+   <!--------- BACKSTORY START -------------------------------------------------------------------->
+   <div class="col-md-8">
+    <div class="card p-1 mb-0" style="border-color: #a03fbe;border-top-right-radius:15px;border-top-left-radius:15px;border-bottom-right-radius:0px;border-bottom-left-radius:0px; background:rgba(0,0,0,0.8)"><div align="center"><h2><i class="fas fa-star m-1"></i>Backstory<i class="fas fa-star m-1"></i></h2></div></div>
+    <div class="card p-1 mb-4" style="border-color: #a03fbe;border-top-right-radius:0px;border-top-left-radius:0px;border-bottom-right-radius:15px;border-bottom-left-radius:15px;background:rgba(0,0,0,0.8);overflow-x:hidden;overflow-y:auto;height:450px">
+     <div align="center">
+      <h2><i class="fas fa-star m-1"></i>Initial appearance<i class="fas fa-star m-1"></i></h2>
+      <p>TEXT</p>
+      <p>TEXT</p>
+      <p>TEXT</p>
+      <p>TEXT</p>
+      <p>TEXT</p>
+       
+      <br><div align="center"><div class="mb-2" style="height:1px;width:90%;background-color:#a03fbe;"></div></div>
+      <h2><i class="fas fa-star m-1"></i>First evolution<i class="fas fa-star m-1"></i></h2>
+      <p>TEXT</p>
+      <p>TEXT</p>
+      <p>TEXT</p>
+      <p>TEXT</p>
+      <p>TEXT</p>
+       
+      <br><div align="center"><div class="mb-2" style="height:1px;width:90%;background-color:#a03fbe;"></div></div>
+      <h2><i class="fas fa-star m-1"></i>Second (Accident) evolution<i class="fas fa-star m-1"></i></h2>
+      <p>TEXT</p>
+      <p>TEXT</p>
+      <p>TEXT</p>
+      <p>TEXT</p>
+      <p>TEXT</p>
+       
+      <br><div align="center"><div class="mb-2" style="height:1px;width:90%;background-color:#a03fbe;"></div></div>
+      <h2><i class="fas fa-star m-1"></i>Final evolution<i class="fas fa-star m-1"></i></h2>
+      <p>TEXT</p>
+      <p>TEXT</p>
+      <p>TEXT</p>
+      <p>TEXT</p>
+      <p>TEXT</p>
+     </div>
+    </div>
+   </div>
+   
+   <!--------- RELATIONSHIPS START -------------------------------------------------------------------->
+   <div class="col-md-12">
+    <div class="card p-1 mb-0" style="border-color: #a03fbe;border-top-right-radius:15px;border-top-left-radius:15px;border-bottom-right-radius:0px;border-bottom-left-radius:0px; background:rgba(0,0,0,0.8)"><div align="center"><h2><i class="fas fa-star m-1"></i>Relationships<i class="fas fa-star m-1"></i></h2></div></div>
+    <div class="card p-3 mb-4" style="border-color: #a03fbe;border-top-right-radius:0px;border-top-left-radius:0px;border-bottom-right-radius:15px;border-bottom-left-radius:15px;background:rgba(0,0,0,0.8)">
+     <div class="row" align="center">
+      
+      <!---|Character Start|--->
+      <div class="col-md-4">
+       <a href="LINK" class="img-thumbnail rounded-circle" style="border-color: #a03fbe;background:url(https://tinyurl.com/p3hdxbd3) no-repeat center;background-size:cover;height:150px;width:150px;"></a>
+       <p><b>NAME (STATUS)</b></p>
+       <p><i class="fas fa-circle"></i><i class="fas fa-circle"></i><i class="fas fa-circle"></i><i class="fas fa-circle"></i><i class="far fa-circle"></i><i class="far fa-circle"></i><i class="far fa-circle"></i><i class="far fa-circle"></i></p>
+       <p>DESCRIPTION</p>
+       <br><div align="center"><div class="mb-2" style="height:1px;width:80%;background-color:#a03fbe;"></div></div><br>
+      </div>
+      
+      <!---|Character Start|--->
+      <div class="col-md-4">
+       <a href="LINK" class="img-thumbnail rounded-circle" style="border-color: #a03fbe;background:url(https://tinyurl.com/p3hdxbd3) no-repeat center;background-size:cover;height:150px;width:150px;"></a>
+       <p><b>NAME (STATUS)</b></p>
+       <p><i class="fas fa-circle"></i><i class="fas fa-circle"></i><i class="fas fa-circle"></i><i class="fas fa-circle"></i><i class="far fa-circle"></i><i class="far fa-circle"></i><i class="far fa-circle"></i><i class="far fa-circle"></i></p>
+       <p>DESCRIPTION</p>
+       <br><div align="center"><div class="mb-2" style="height:1px;width:80%;background-color:#a03fbe;"></div></div><br>
+      </div>
+      
+      <!---|Character Start|--->
+      <div class="col-md-4">
+       <a href="LINK" class="img-thumbnail rounded-circle" style="border-color: #a03fbe;background:url(https://tinyurl.com/p3hdxbd3) no-repeat center;background-size:cover;height:150px;width:150px;"></a>
+       <p><b>NAME (STATUS)</b></p>
+       <p><i class="fas fa-circle"></i><i class="fas fa-circle"></i><i class="fas fa-circle"></i><i class="fas fa-circle"></i><i class="far fa-circle"></i><i class="far fa-circle"></i><i class="far fa-circle"></i><i class="far fa-circle"></i></p>
+       <p>DESCRIPTION</p>
+       <br><div align="center"><div class="mb-2" style="height:1px;width:80%;background-color:#a03fbe;"></div></div><br>
+      </div>
+      
+      <!---|Character Start|--->
+      <div class="col-md-4">
+       <a href="LINK" class="img-thumbnail rounded-circle" style="border-color: #a03fbe;background:url(https://tinyurl.com/p3hdxbd3) no-repeat center;background-size:cover;height:150px;width:150px;"></a>
+       <p><b>NAME (STATUS)</b></p>
+       <p><i class="fas fa-circle"></i><i class="fas fa-circle"></i><i class="fas fa-circle"></i><i class="fas fa-circle"></i><i class="far fa-circle"></i><i class="far fa-circle"></i><i class="far fa-circle"></i><i class="far fa-circle"></i></p>
+       <p>DESCRIPTION</p>
+       <br><div align="center"><div class="mb-2" style="height:1px;width:80%;background-color:#a03fbe;"></div></div><br>
+      </div>
+      
+      <!---|Character Start|--->
+      <div class="col-md-4">
+       <a href="LINK" class="img-thumbnail rounded-circle" style="border-color: #a03fbe;background:url(https://tinyurl.com/p3hdxbd3) no-repeat center;background-size:cover;height:150px;width:150px;"></a>
+       <p><b>NAME (STATUS)</b></p>
+       <p><i class="fas fa-circle"></i><i class="fas fa-circle"></i><i class="fas fa-circle"></i><i class="fas fa-circle"></i><i class="far fa-circle"></i><i class="far fa-circle"></i><i class="far fa-circle"></i><i class="far fa-circle"></i></p>
+       <p>DESCRIPTION</p>
+       <br><div align="center"><div class="mb-2" style="height:1px;width:80%;background-color:#a03fbe;"></div></div><br>
+      </div>
+      
+      <!---|Character Start|--->
+      <div class="col-md-4">
+       <a href="LINK" class="img-thumbnail rounded-circle" style="border-color: #a03fbe;background:url(https://tinyurl.com/p3hdxbd3) no-repeat center;background-size:cover;height:150px;width:150px;"></a>
+       <p><b>NAME (STATUS)</b></p>
+       <p><i class="fas fa-circle"></i><i class="fas fa-circle"></i><i class="fas fa-circle"></i><i class="fas fa-circle"></i><i class="far fa-circle"></i><i class="far fa-circle"></i><i class="far fa-circle"></i><i class="far fa-circle"></i></p>
+       <p>DESCRIPTION</p>
+       <br><div align="center"><div class="mb-2" style="height:1px;width:80%;background-color:#a03fbe;"></div></div><br>
+      </div>
+      
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+</div>
