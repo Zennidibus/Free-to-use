@@ -1,0 +1,325 @@
+<!------------------- BEFORE YOU EDIT: ------------------------------------------------------------------------------->
+<!---|    Make sure you provide square icons, links, etc                                                          |--->
+<!---|    Image placeholder: https://tinyurl.com/p3hdxbd3                                                         |--->
+<!---|    Border color: a03fbe                                                                                    |--->
+<!---|    Text color: e6b4fa                                                                                      |--->
+<!---|    Main BG: https://f2.toyhou.se/file/f2-toyhou-se/images/28056968_JoXDcBKVHYJtPAR.png                     |--->
+<!---|    Use CTRL + F to find all and edit to your liking                                                        |--->
+<!-------------------------------------------------------------------------------------------------------------------->
+
+<div class="row justify-content-center pl-4 pr-4 pt-4" style="background:url(https://f2.toyhou.se/file/f2-toyhou-se/images/28056968_JoXDcBKVHYJtPAR.png);top:0px;bottom:0px;background-attachment:fixed;background-position: center;background-size: 1500px 2000px;">
+ <div style="color:#e6b4fa;font-weight:500;">
+  <div align="center">
+   <div class="row justify-content-center">
+    <div class="col-md-4 my-auto">
+    <!---IMAGE, LINK, AND NAME HERE --->
+     <a href="LINK" class="img-thumbnail rounded-circle" style="border-color: #a03fbe;background:url(https://tinyurl.com/p3hdxbd3) no-repeat center;background-size:cover;height:150px;width:150px;"></a>
+    <!---IMAGE, LINK, AND NAME END --->
+     <div class="card p-2 mb-0" style="border-color: #a03fbe;border-top-right-radius:15px;border-top-left-radius:15px;border-bottom-right-radius:0px;border-bottom-left-radius:0px; background:rgba(0,0,0,0.8)">
+      <h3>NAME</h3>
+     </div>
+     <div class="card p-2 mb-0" style="border-color: #a03fbe; background:rgba(0,0,0,0.8)">
+      <p><i>"QUOTE"</i></p>
+      <p><i>"QUOTE"</i></p>
+      <p><i>"QUOTE"</i></p>
+     </div>
+     <div class="card p-2 mb-0" style="border-color: #a03fbe; background:rgba(0,0,0,0.8)">
+      <p>GENDER</p>
+      <p>PRONOUNS</p>
+     </div>
+     <div class="card p-2 mb-4" style="border-color: #a03fbe;border-top-right-radius:0px;border-top-left-radius:0px;border-bottom-right-radius:15px;border-bottom-left-radius:15px; background:rgba(0,0,0,0.8)">
+      <table class="table table-striped mb-0" style="border:transparent;">
+       <tbody>
+        <tr>
+         <td><b>PDA:</b></td>
+         <td>
+          <i class="fas fa-circle"></i>
+          <i class="fas fa-circle"></i>
+          <i class="fas fa-circle"></i>
+          <i class="far fa-circle"></i>
+          <i class="far fa-circle"></i>
+         </td>
+        </tr>
+        <tr>
+         <td><b>Protective:</b></td>
+         <td>
+          <i class="fas fa-circle"></i>
+          <i class="fas fa-circle"></i>
+          <i class="fas fa-circle"></i>
+          <i class="far fa-circle"></i>
+          <i class="far fa-circle"></i>
+         </td>
+        </tr>
+        <tr>
+        <td><b>Affection:</b></td>
+         <td>
+          <i class="fas fa-circle"></i>
+          <i class="fas fa-circle"></i>
+          <i class="fas fa-circle"></i>
+          <i class="far fa-circle"></i>
+          <i class="far fa-circle"></i>
+         </td>
+        </tr>
+        <tr>
+        <td><b>Teasing:</b></td>
+         <td>
+          <i class="fas fa-circle"></i>
+          <i class="fas fa-circle"></i>
+          <i class="fas fa-circle"></i>
+          <i class="far fa-circle"></i>
+          <i class="far fa-circle"></i>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </div>
+    </div>
+    
+    <div class="col-md-4 my-auto">
+    <!---IMAGE, LINK, AND NAME HERE --->
+     <a href="LINK" class="img-thumbnail rounded-circle" style="border-color: #a03fbe;background:url(https://tinyurl.com/p3hdxbd3) no-repeat center;background-size:cover;height:150px;width:150px;"></a>
+    <!---IMAGE, LINK, AND NAME END --->
+     <div class="card p-2 mb-0" style="border-color: #a03fbe;border-top-right-radius:15px;border-top-left-radius:15px;border-bottom-right-radius:0px;border-bottom-left-radius:0px; background:rgba(0,0,0,0.8)">
+      <h3>NAME</h3>
+     </div>
+     <div class="card p-2 mb-0" style="border-color: #a03fbe; background:rgba(0,0,0,0.8)">
+      <p><i>"QUOTE"</i></p>
+      <p><i>"QUOTE"</i></p>
+      <p><i>"QUOTE"</i></p>
+     </div>
+     <div class="card p-2 mb-0" style="border-color: #a03fbe; background:rgba(0,0,0,0.8)">
+      <p>GENDER</p>
+      <p>PRONOUNS</p>
+     </div>
+     <div class="card p-2 mb-4" style="border-color: #a03fbe;border-top-right-radius:0px;border-top-left-radius:0px;border-bottom-right-radius:15px;border-bottom-left-radius:15px; background:rgba(0,0,0,0.8)">
+      <table class="table table-striped mb-0" style="border:transparent;">
+       <tbody>
+        <tr>
+         <td><b>PDA:</b></td>
+         <td>
+          <i class="fas fa-circle"></i>
+          <i class="fas fa-circle"></i>
+          <i class="fas fa-circle"></i>
+          <i class="far fa-circle"></i>
+          <i class="far fa-circle"></i>
+         </td>
+        </tr>
+        <tr>
+         <td><b>Protective:</b></td>
+         <td>
+          <i class="fas fa-circle"></i>
+          <i class="fas fa-circle"></i>
+          <i class="fas fa-circle"></i>
+          <i class="far fa-circle"></i>
+          <i class="far fa-circle"></i>
+         </td>
+        </tr>
+        <tr>
+        <td><b>Affection:</b></td>
+         <td>
+          <i class="fas fa-circle"></i>
+          <i class="fas fa-circle"></i>
+          <i class="fas fa-circle"></i>
+          <i class="far fa-circle"></i>
+          <i class="far fa-circle"></i>
+         </td>
+        </tr>
+        <tr>
+        <td><b>Teasing:</b></td>
+         <td>
+          <i class="fas fa-circle"></i>
+          <i class="fas fa-circle"></i>
+          <i class="fas fa-circle"></i>
+          <i class="far fa-circle"></i>
+          <i class="far fa-circle"></i>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </div>
+    </div>
+    
+    <div class="col-md-4 my-auto">
+    <!---IMAGE, LINK, AND NAME HERE --->
+     <a href="LINK" class="img-thumbnail rounded-circle" style="border-color: #a03fbe;background:url(https://tinyurl.com/p3hdxbd3) no-repeat center;background-size:cover;height:150px;width:150px;"></a>
+    <!---IMAGE, LINK, AND NAME END --->
+     <div class="card p-2 mb-0" style="border-color: #a03fbe;border-top-right-radius:15px;border-top-left-radius:15px;border-bottom-right-radius:0px;border-bottom-left-radius:0px; background:rgba(0,0,0,0.8)">
+      <h3>NAME</h3>
+     </div>
+     <div class="card p-2 mb-0" style="border-color: #a03fbe; background:rgba(0,0,0,0.8)">
+      <p><i>"QUOTE"</i></p>
+      <p><i>"QUOTE"</i></p>
+      <p><i>"QUOTE"</i></p>
+     </div>
+     <div class="card p-2 mb-0" style="border-color: #a03fbe; background:rgba(0,0,0,0.8)">
+      <p>GENDER</p>
+      <p>PRONOUNS</p>
+     </div>
+     <div class="card p-2 mb-4" style="border-color: #a03fbe;border-top-right-radius:0px;border-top-left-radius:0px;border-bottom-right-radius:15px;border-bottom-left-radius:15px; background:rgba(0,0,0,0.8)">
+      <table class="table table-striped mb-0" style="border:transparent;">
+       <tbody>
+        <tr>
+         <td><b>PDA:</b></td>
+         <td>
+          <i class="fas fa-circle"></i>
+          <i class="fas fa-circle"></i>
+          <i class="fas fa-circle"></i>
+          <i class="far fa-circle"></i>
+          <i class="far fa-circle"></i>
+         </td>
+        </tr>
+        <tr>
+         <td><b>Protective:</b></td>
+         <td>
+          <i class="fas fa-circle"></i>
+          <i class="fas fa-circle"></i>
+          <i class="fas fa-circle"></i>
+          <i class="far fa-circle"></i>
+          <i class="far fa-circle"></i>
+         </td>
+        </tr>
+        <tr>
+        <td><b>Affection:</b></td>
+         <td>
+          <i class="fas fa-circle"></i>
+          <i class="fas fa-circle"></i>
+          <i class="fas fa-circle"></i>
+          <i class="far fa-circle"></i>
+          <i class="far fa-circle"></i>
+         </td>
+        </tr>
+        <tr>
+        <td><b>Teasing:</b></td>
+         <td>
+          <i class="fas fa-circle"></i>
+          <i class="fas fa-circle"></i>
+          <i class="fas fa-circle"></i>
+          <i class="far fa-circle"></i>
+          <i class="far fa-circle"></i>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </div>
+    </div>
+          
+    <div class="col-md-6">
+     <div class="card p-1 mb-0" style="border-color: #a03fbe;border-top-right-radius:15px;border-top-left-radius:15px;border-bottom-right-radius:0px;border-bottom-left-radius:0px; background:rgba(0,0,0,0.8)"><div align="center"><h2><i class="fas fa-star m-1"></i>General<i class="fas fa-star m-1"></i></h2></div></div>
+     <div class="card p-2 mb-4" style="border-color: #a03fbe;border-top-right-radius:0px;border-top-left-radius:0px;border-bottom-right-radius:15px;border-bottom-left-radius:15px; background:rgba(0,0,0,0.8)">
+      <div class="rounded p-1" style="overflow-x:hidden;overflow-y:auto; height: 500px;">
+        
+       <p>DESC • DESC • DESC</p>
+       <br>
+       <p>TEXT</p>
+       <p>TEXT</p>
+       <p>TEXT</p>
+       <div align="center"><div class="mb-2" style="height:1px;width:80%;background-color:#a03fbe;"></div></div>
+       
+       <p><h2><i class="fas fa-star m-1"></i>Love Language<i class="fas fa-star m-1"></i></h2></p>
+       <p>TEXT</p>
+       <p>TEXT</p>
+       <p>TEXT</p>
+       <div align="center"><div class="mb-2" style="height:1px;width:80%;background-color:#a03fbe;"></div></div>
+       
+       <p><h2><i class="fas fa-star m-1"></i>Couple Songs<i class="fas fa-star m-1"></i></h2></p>
+       <p><b><a href="LINK" style="color:#e6b4fa"><i class="fas fa-music mr-2"></i> TITLE | ARTIST</a></b></p>
+       <p><b><a href="LINK" style="color:#e6b4fa"><i class="fas fa-music mr-2"></i> TITLE | ARTIST</a></b></p>
+       <p><b><a href="LINK" style="color:#e6b4fa"><i class="fas fa-music mr-2"></i> TITLE | ARTIST</a></b></p>
+        
+      </div>
+     </div>
+    </div>
+    <div class="col-md-6">
+    <!---Please change Character 5 with the character's name --->
+     <div class="card p-1 mb-0" style="border-color: #a03fbe;border-top-right-radius:15px;border-top-left-radius:15px;border-bottom-right-radius:0px;border-bottom-left-radius:0px; background:rgba(0,0,0,0.8)"><div align="center"><h2><i class="fas fa-star m-1"></i>About<i class="fas fa-star m-1"></i></h2></div></div>
+     <div class="card p-2 mb-4" style="border-color: #a03fbe;border-top-right-radius:0px;border-top-left-radius:0px;border-bottom-right-radius:15px;border-bottom-left-radius:15px; background:rgba(0,0,0,0.8)">
+      <div class="rounded p-1" style="overflow-x:hidden;overflow-y:auto; height: 500px;">
+      
+          <!---DYNAMIC --->
+       <p><h2><i class="fas fa-star m-1"></i>Dynamic<i class="fas fa-star m-1"></i></h2></p>
+       <p><b>Public:</b> TEXT</p>
+       <p><b>With friends/families:</b> TEXT</p>
+       <p><b>Private:</b> TEXT</p>
+      <br><div align="center"><div class="mb-2" style="height:1px;width:80%;background-color:#a03fbe;"></div></div>
+      
+          <!---DATE --->
+       <p><h2><i class="fas fa-star m-1"></i>Date Locations and Activities<i class="fas fa-star m-1"></i></h2></p>
+       <p>TEXT</p>
+       <p>TEXT</p>
+       <p>TEXT</p>
+      </div>
+     </div>
+    </div>
+    <div class="col-md-6">
+    <!---Please change Character 5 with the character's name --->
+     <div class="card p-1 mb-0" style="border-color: #a03fbe;border-top-right-radius:15px;border-top-left-radius:15px;border-bottom-right-radius:0px;border-bottom-left-radius:0px; background:rgba(0,0,0,0.8)"><div align="center"><h2><i class="fas fa-star m-1"></i>First Encounter<i class="fas fa-star m-1"></i></h2></div></div>
+     <div class="card p-2 mb-4" style="border-color: #a03fbe;border-top-right-radius:0px;border-top-left-radius:0px;border-bottom-right-radius:15px;border-bottom-left-radius:15px; background:rgba(0,0,0,0.8)">
+      
+      <ul class="nav nav-tabs card-header-tabs row no-gutters">
+       <li class="col-md-6">
+        <a href="#FORDOLA" style="color:#e6b4fa;border-width:2px;border-width:2px;border-color: #a03fbe;border-radius:10px; background:rgba(255,255,255,0)" class="btn bg-faded btn-block btn-outline-secondary active" data-toggle="tab">Fordola</a>
+       </li>
+       <li class="col-md-6">
+        <a href="#MISIJA" style="color:#e6b4fa;border-width:2px;border-width:2px;border-color: #a03fbe;border-radius:10px; background:rgba(255,255,255,0)" class="btn bg-faded btn-block btn-outline-secondary" data-toggle="tab">Misija</a>
+       </li>
+      </ul>
+      
+      <div class="tab-content">
+         
+       <div class="tab-pane active show" id="FORDOLA">
+        <div class="rounded p-1" style="overflow-x:hidden;overflow-y:auto; height: 500px;">
+         <br>
+         <p>WIP</p>
+         <p>WIP</p>
+         <p>WIP</p>
+         <p>WIP</p>
+         <p>WIP</p>
+        </div>
+       </div>
+         
+       <div class="tab-pane fade" id="MISIJA">
+        <div class="rounded p-1" style="overflow-x:hidden;overflow-y:auto; height: 500px;">
+         <br>
+         <p>WIP</p>
+         <p>WIP</p>
+         <p>WIP</p>
+         <p>WIP</p>
+         <p>WIP</p>
+        </div>
+       </div>
+        
+      </div>
+     </div>
+    </div>
+   <!--------- TAB 5 END -------------------------------------------------------------------->
+    <div class="col-md-6">
+    <!---Please change Character 5 with the character's name --->
+     <div class="card p-1 mb-0" style="border-color: #a03fbe;border-top-right-radius:15px;border-top-left-radius:15px;border-bottom-right-radius:0px;border-bottom-left-radius:0px; background:rgba(0,0,0,0.8)"><div align="center"><h2><i class="fas fa-star m-1"></i>Meetings<i class="fas fa-star m-1"></i></h2></div></div>
+     <div class="card p-2 mb-4" style="border-color: #a03fbe;border-top-right-radius:0px;border-top-left-radius:0px;border-bottom-right-radius:15px;border-bottom-left-radius:15px; background:rgba(0,0,0,0.8)">
+      <div class="rounded p-1" style="overflow-x:hidden;overflow-y:auto; height: 525px;">
+       <p>WIP</p>
+       <p>WIP</p>
+       <p>WIP</p>
+       <p>WIP</p>
+       <p>WIP</p>
+       <p>WIP</p>
+       <p>WIP</p>
+       <p>WIP</p>
+       
+      <br><div align="center"><div class="mb-2" style="height:1px;width:80%;background-color:#a03fbe;"></div></div>
+        <!---MID --->
+       <p><h2><i class="fas fa-star m-1"></i>Mid-Encounter<i class="fas fa-star m-1"></i></h2></p>
+       <p>WIP</p>
+       <p>WIP</p>
+       <p>WIP</p>
+       <p>WIP</p>
+       <p>WIP</p>
+       <p>WIP</p>
+       <p>WIP</p>
+      </div>
+   <!--------- TAB 5 END -------------------------------------------------------------------->
+    </div>
+   </div>
+  </div>
+ </div>
+</div>
