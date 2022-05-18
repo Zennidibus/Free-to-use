@@ -1,0 +1,236 @@
+<!------------------- BEFORE YOU EDIT: ------------------------------------------------------------------------------->
+<!---|    Make sure you provide square icons, links, etc                                                          |--->
+<!---|    Image placeholder: https://tinyurl.com/p3hdxbd3                                                         |--->
+<!---|    Border color: a03fbe                                                                                    |--->
+<!---|    Text color: e6b4fa                                                                                      |--->
+<!---|    Main BG: https://f2.toyhou.se/file/f2-toyhou-se/images/28056968_JoXDcBKVHYJtPAR.png                     |--->
+<!---|    Use CTRL + F to find all and edit to your liking                                                        |--->
+<!-------------------------------------------------------------------------------------------------------------------->
+
+<div class="row justify-content-center pl-4 pr-4 pt-4" style="background:url(https://f2.toyhou.se/file/f2-toyhou-se/images/28056968_JoXDcBKVHYJtPAR.png);top:0px;bottom:0px;background-attachment:fixed;background-position: center;background-size: 1500px 2000px;">
+ <div style="color:#e6b4fa;font-weight:500;">
+  <div align="center">
+   <div class="row justify-content-center">
+    <div class="col-md-3 my-auto">
+    <!---IMAGE, LINK, AND NAME HERE --->
+     <h3>NAME</h3>
+     <a href="LINK" class="img-thumbnail rounded-circle" style="border-color: #a03fbe;background:url(https://tinyurl.com/p3hdxbd3) no-repeat center;background-size:cover;height:150px;width:150px;"></a>
+    <!---IMAGE, LINK, AND NAME END --->
+     <div class="card p-2 mb-0" style="border-color: #a03fbe;border-top-right-radius:15px;border-top-left-radius:15px;border-bottom-right-radius:0px;border-bottom-left-radius:0px; background:rgba(0,0,0,0.8)">
+      <p><i>"Quote from Char to OP"</i></p>
+      <p><i>"Another Quote because one isn't enough"</i></p>
+      <p><i>"OP ILY"</i></p>
+      <p><i>"Quote above is cringe"</i></p>
+      <p><i>"Imma stop now"</i></p>
+     </div>
+     <div class="card p-2 mb-0" style="border-color: #a03fbe; background:rgba(0,0,0,0.8)">
+      <p>GENDER</p>
+      <p>PRONOUNS</p>
+     </div>
+     <div class="card p-2 mb-0" style="border-color: #a03fbe; background:rgba(0,0,0,0.8)">
+      <table class="table table-striped mb-0" style="border:transparent;">
+       <tbody>
+        <tr>
+         <td><b>PDA:</b></td>
+         <td>
+          <i class="fas fa-circle"></i>
+          <i class="far fa-circle"></i>
+          <i class="far fa-circle"></i>
+          <i class="far fa-circle"></i>
+          <i class="far fa-circle"></i>
+         </td>
+        </tr>
+        <tr>
+         <td><b>Protective:</b></td>
+         <td>
+          <i class="fas fa-circle"></i>
+          <i class="far fa-circle"></i>
+          <i class="far fa-circle"></i>
+          <i class="far fa-circle"></i>
+          <i class="far fa-circle"></i>
+         </td>
+        </tr>
+        <tr>
+        <td><b>Affection:</b></td>
+         <td>
+          <i class="fas fa-circle"></i>
+          <i class="far fa-circle"></i>
+          <i class="far fa-circle"></i>
+          <i class="far fa-circle"></i>
+          <i class="far fa-circle"></i>
+         </td>
+        </tr>
+        <tr>
+        <td><b>Teasing:</b></td>
+         <td>
+          <i class="fas fa-circle"></i>
+          <i class="far fa-circle"></i>
+          <i class="far fa-circle"></i>
+          <i class="far fa-circle"></i>
+          <i class="far fa-circle"></i>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </div>
+     <div class="card p-2 mb-4" style="border-color: #a03fbe;border-top-right-radius:0px;border-top-left-radius:0px;border-bottom-right-radius:15px;border-bottom-left-radius:15px; background:rgba(0,0,0,0.8)">
+      <p><h2><i class="fas fa-music m-2"></i>Theme Songs <i class="fas fa-music m-2"></i></h2></p>
+      <p><b><a href="LINK" style="color:#e6b4fa"><i class="fas fa-music mr-2"></i> Song Name | Artist/Composer</a></b></p>
+      <div align="center"><div class="mb-2" style="height:1px;width:80%;background-color:#a03fbe;"></div></div>
+      <p><b><a href="LINK" style="color:#e6b4fa"><i class="fas fa-music mr-2"></i> Song Name | Artist/Composer</a></b></p>
+      <div align="center"><div class="mb-2" style="height:1px;width:80%;background-color:#a03fbe;"></div></div>
+      <p><b><a href="LINK" style="color:#e6b4fa"><i class="fas fa-music mr-2"></i> Song Name | Artist/Composer</a></b></p>
+     </div>
+    </div>
+          
+    <div class="col-md-6 my-auto">
+     <div class="card p-2 mb-4" style="border-color: #a03fbe;border-radius:15px; background:rgba(0,0,0,0.8)">
+      <div class="rounded p-1" style="overflow-x:hidden;overflow-y:auto; height: 700px;">
+        
+       <p>DESC • DESC • DESC</p>
+       <br>
+       <p>Brief info</p>
+       <p>Paragraphs maybe?</p>
+       <p>Or maybe they're in love in secret</p>
+       <div align="center"><div class="mb-2" style="height:1px;width:80%;background-color:#a03fbe;"></div></div>
+       
+       <p><h2><i class="fas fa-star m-2"></i>Love Language<i class="fas fa-star m-2"></i></h2></p>
+       <p>Brief info</p>
+       <p>What do they love to do?</p>
+       <p>Give gifts? Take OP on many dates? </p>
+       <div align="center"><div class="mb-2" style="height:1px;width:80%;background-color:#a03fbe;"></div></div>
+       
+       <p><h2><i class="fas fa-star m-2"></i>Couple Songs<i class="fas fa-star m-2"></i></h2></p>
+       <p><b><a href="LINK" style="color:#e6b4fa"><i class="fas fa-music mr-2"></i> Song Name | Artist/Composer</a></b></p>
+       <p><b><a href="LINK" style="color:#e6b4fa"><i class="fas fa-music mr-2"></i> Song Name | Artist/Composer</a></b></p>
+       <p><b><a href="LINK" style="color:#e6b4fa"><i class="fas fa-music mr-2"></i> Song Name | Artist/Composer</a></b></p>
+        
+      </div>
+     </div>
+    </div>
+          
+    <div class="col-md-3 my-auto">
+    <!---IMAGE, LINK, AND NAME HERE --->
+     <h3>NAME</h3>
+     <a href="LINK" class="img-thumbnail rounded-circle" style="border-color: #a03fbe;background:url(https://tinyurl.com/p3hdxbd3) no-repeat center;background-size:cover;height:150px;width:150px;"></a>
+    <!---IMAGE, LINK, AND NAME END --->
+     <div class="card p-2 mb-0" style="border-color: #a03fbe;border-top-right-radius:15px;border-top-left-radius:15px;border-bottom-right-radius:0px;border-bottom-left-radius:0px; background:rgba(0,0,0,0.8)">
+      <p><i>"Quote from OP to Char"</i></p>
+      <p><i>"Another Quote because one isn't enough"</i></p>
+      <p><i>"Char are you okay"</i></p>
+      <p><i>"Yee you're cringe"</i></p>
+      <p><i>"JK ILY"</i></p>
+     </div>
+     <div class="card p-2 mb-0" style="border-color: #a03fbe; background:rgba(0,0,0,0.8)">
+      <p>GENDER</p>
+      <p>PRONOUNS</p>
+     </div>
+     <div class="card p-2 mb-0" style="border-color: #a03fbe; background:rgba(0,0,0,0.8)">
+      <table class="table table-striped mb-0" style="border:transparent;">
+       <tbody>
+        <tr>
+         <td><b>PDA:</b></td>
+         <td>
+          <i class="fas fa-circle"></i>
+          <i class="far fa-circle"></i>
+          <i class="far fa-circle"></i>
+          <i class="far fa-circle"></i>
+          <i class="far fa-circle"></i>
+         </td>
+        </tr>
+        <tr>
+         <td><b>Protective:</b></td>
+         <td>
+          <i class="fas fa-circle"></i>
+          <i class="far fa-circle"></i>
+          <i class="far fa-circle"></i>
+          <i class="far fa-circle"></i>
+          <i class="far fa-circle"></i>
+         </td>
+        </tr>
+        <tr>
+        <td><b>Affection:</b></td>
+         <td>
+          <i class="fas fa-circle"></i>
+          <i class="far fa-circle"></i>
+          <i class="far fa-circle"></i>
+          <i class="far fa-circle"></i>
+          <i class="far fa-circle"></i>
+         </td>
+        </tr>
+        <tr>
+        <td><b>Teasing:</b></td>
+         <td>
+          <i class="fas fa-circle"></i>
+          <i class="far fa-circle"></i>
+          <i class="far fa-circle"></i>
+          <i class="far fa-circle"></i>
+          <i class="far fa-circle"></i>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </div>
+     <div class="card p-2 mb-4" style="border-color: #a03fbe;border-top-right-radius:0px;border-top-left-radius:0px;border-bottom-right-radius:15px;border-bottom-left-radius:15px; background:rgba(0,0,0,0.8)">
+      <p><h2><i class="fas fa-music m-2"></i>Theme Songs <i class="fas fa-music m-2"></i></h2></p>
+      <p><b><a href="LINK" style="color:#e6b4fa"><i class="fas fa-music mr-2"></i> Song Name | Artist/Composer</a></b></p>
+      <div align="center"><div class="mb-2" style="height:1px;width:80%;background-color:#a03fbe;"></div></div>
+      <p><b><a href="LINK" style="color:#e6b4fa"><i class="fas fa-music mr-2"></i> Song Name | Artist/Composer</a></b></p>
+      <div align="center"><div class="mb-2" style="height:1px;width:80%;background-color:#a03fbe;"></div></div>
+      <p><b><a href="LINK" style="color:#e6b4fa"><i class="fas fa-music mr-2"></i> Song Name | Artist/Composer</a></b></p>
+     </div>
+    </div>
+    <div class="col-md-6">
+    <!---CHAR 5'S BIODATA --->
+    <!---Please change Character 5 with the character's name --->
+     <div class="card p-1 mb-0" style="border-color: #a03fbe;border-top-right-radius:15px;border-top-left-radius:15px;border-bottom-right-radius:0px;border-bottom-left-radius:0px; background:rgba(0,0,0,0.8)"><div align="center"><h2><i class="fas fa-star m-2"></i>About <i class="fas fa-star m-2"></i></h2></div></div>
+     <div class="card p-2 mb-4" style="border-color: #a03fbe;border-top-right-radius:0px;border-top-left-radius:0px;border-bottom-right-radius:15px;border-bottom-left-radius:15px; background:rgba(0,0,0,0.8)">
+      <div class="rounded p-1" style="overflow-x:hidden;overflow-y:auto; height: 500px;">
+    <!---STATS HERE --->
+      <!---NOTE: For this one please take a look on which: the code fas is for filled circle while far is for blank circle. Copy/erase the number as you see fit --->
+          <!---TOGETHER --->
+       <p><h2><i class="fas fa-star m-2"></i>When Together<i class="fas fa-star m-2"></i></h2></p>
+       <p>You can put anything here, as long as you make this as paragraph it'll make sense</p>
+       <p>You can actually put anything as long as it's SFW</p>
+       <p>What they love to do when they're together?</p>
+      <br><div align="center"><div class="mb-2" style="height:1px;width:80%;background-color:#a03fbe;"></div></div>
+      
+          <!---DYNAMIC --->
+       <p><h2><i class="fas fa-star m-2"></i>Dynamic<i class="fas fa-star m-2"></i></h2></p>
+       <p><b>Public:</b> It's best for them to look innocent here</p>
+       <p><b>With friends/families:</b> You sure Char/OP won't say anything remotely embarassing?</p>
+       <p><b>Private:</b> Oh my gosh they're playing pokers!</p>
+      <br><div align="center"><div class="mb-2" style="height:1px;width:80%;background-color:#a03fbe;"></div></div>
+      
+          <!---DATE --->
+       <p><h2><i class="fas fa-star m-2"></i>Date Locations and Activities<i class="fas fa-star m-2"></i></h2></p>
+       <p>Where do OP and Char love to meet up? Do they have favorite places?</p>
+       <p>What are the activities they love to do? Maybe fishing</p>
+       <p>Look there's a pond there, let's feed the ducks!</p>
+      </div>
+     </div>
+    </div>
+    <div class="col-md-6">
+    <!---Please change Character 5 with the character's name --->
+     <div class="card p-1 mb-0" style="border-color: #a03fbe;border-top-right-radius:15px;border-top-left-radius:15px;border-bottom-right-radius:0px;border-bottom-left-radius:0px; background:rgba(0,0,0,0.8)"><div align="center"><h2><i class="fas fa-star m-2"></i>First meeting <i class="fas fa-star m-2"></i></h2></div></div>
+     <div class="card p-2 mb-4" style="border-color: #a03fbe;border-top-right-radius:0px;border-top-left-radius:0px;border-bottom-right-radius:15px;border-bottom-left-radius:15px; background:rgba(0,0,0,0.8)">
+      <div class="rounded p-1" style="overflow-x:hidden;overflow-y:auto; height: 500px;">
+      <!---FIRST MEETING --->
+       <p><h2><i class="fas fa-star mr-2"></i>First meeting<i class="fas fa-star mr-2"></i></h2></p>
+       <p>How do they meet?</p>
+       <p>Cliche story?</p>
+       <p>Put all of your romantic stories here</p>
+      <br><div align="center"><div class="mb-2" style="height:1px;width:80%;background-color:#a03fbe;"></div></div>
+     <!---DURING DATING HERE --->
+       <p><h2><i class="fas fa-star mr-2"></i>Dating<i class="fas fa-star mr-2"></i></h2></p>
+       <p>Oh my gosh they're dating</p>
+       <p>Now leave them alone you stalker</p>
+       <p>JK you're the third wheel haha</p>
+      </div>
+   <!--------- TAB 5 END -------------------------------------------------------------------->
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+</div>
