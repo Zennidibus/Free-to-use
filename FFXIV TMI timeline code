@@ -1,3 +1,26 @@
+<div class="container"> 
+ <div style="color:#e6b4fa;">
+  <div class="row justify-content-center">
+   <div class="col-md-8">
+    <div class="card p-3 m-5" style="border-color: #a03fbe;border-radius:15px; background-color:#000;background-image:url(https://f2.toyhou.se/file/f2-toyhou-se/images/28056968_JoXDcBKVHYJtPAR.png);background-size:1500px 1000px;background-attachment:fixed;">
+     <div class="card card-block bg-faded rounded-0 mb-0" style="border-radius:10px;background:rgba(0,0,0,0.85)">
+      <div class="row">
+
+       <div class="col px-3 text-center"><a href="https://raw.githubusercontent.com/Zennidibus/Free-to-use/main/FFXIV%20TMI%20timeline%20code" style="color: #e6b4fa" class="btn btn-outline-color: #ffffff rounded-0"><i class="fas fa-code fa-fw fa-2x"></a>
+        <br><h3 style="color:#e6b4fa;">Code</h3>
+       </a></div>
+	     
+       <div class="col px-3 text-center"><a href="https://toyhou.se/Raguelmon/characters" style="color: #e6b4fa" class="btn btn-outline-color: #ffffff rounded-0"><i class="fas fa-list fa-fw fa-2x" /></a>
+	      <br><h3 style="color:#e6b4fa;">Rules</h3>
+       </a></div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+</div>
+
 <!------------------- BEFORE YOU EDIT: ------------------------------------------------------------------------------->
 <!---|    Make sure you provide square icons, links, etc                                                          |--->
 <!---|    Border color: a03fbe                                                                                    |--->
@@ -328,6 +351,61 @@
       <div class="card p-3 mb-4" style="border-width:2px;border-color: #a03fbe;border-top-right-radius:0px;border-top-left-radius:0px;border-bottom-right-radius:15px;border-bottom-left-radius:15px; background:rgba(0,0,0,0.7)">
        
        <div align="center"><p><h1><i class="fas fa-star mr-2"></i> ENDWALKER <i class="fas fa-star mr-2"></i></h1></p></div>
+       <div class="px-3 py-2">
+        <ul>
+         <li>TEXT</li>
+         <li>TEXT</li>
+         <li>TEXT</li>
+         <li>TEXT</li>
+         <li>TEXT</li>
+        </ul>
+       </div>
+       <div align="center"><div class="my-2" style="height:1px;width:80%;background-color:#a03fbe;"></div></div>
+       <div align="center"><p><h1><i class="fas fa-star mr-2"></i> NEWFOUND ADVENTURE <i class="fas fa-star mr-2"></i></h1></p></div>
+       <div class="px-3 py-2">
+        <ul>
+         <li>TEXT</li>
+         <li>TEXT</li>
+         <li>TEXT</li>
+         <li>TEXT</li>
+         <li>TEXT</li>
+        </ul>
+       </div>
+       <div align="center"><div class="my-2" style="height:1px;width:80%;background-color:#a03fbe;"></div></div>
+       <div align="center"><p><h1><i class="fas fa-star mr-2"></i> BURIED MEMORY <i class="fas fa-star mr-2"></i></h1></p></div>
+       <div class="px-3 py-2">
+        <ul>
+         <li>TEXT</li>
+         <li>TEXT</li>
+         <li>TEXT</li>
+         <li>TEXT</li>
+         <li>TEXT</li>
+        </ul>
+       </div>
+       <div align="center"><div class="my-2" style="height:1px;width:80%;background-color:#a03fbe;"></div></div>
+       <div align="center"><p><h1><i class="fas fa-star mr-2"></i> GODS REVEL, LANDS TREMBLE <i class="fas fa-star mr-2"></i></h1></p></div>
+       <div class="px-3 py-2">
+        <ul>
+         <li>TEXT</li>
+         <li>TEXT</li>
+         <li>TEXT</li>
+         <li>TEXT</li>
+         <li>TEXT</li>
+        </ul>
+       </div>
+       <div align="center"><div class="my-2" style="height:1px;width:80%;background-color:#a03fbe;"></div></div>
+       <div align="center"><p><h1><i class="fas fa-star mr-2"></i> THE DARK THRONE <i class="fas fa-star mr-2"></i></h1></p></div>
+       <div class="px-3 py-2">
+        <ul>
+         <li>TEXT</li>
+         <li>TEXT</li>
+         <li>TEXT</li>
+         <li>TEXT</li>
+         <li>TEXT</li>
+        </ul>
+       </div>
+       <div align="center"><div class="my-2" style="height:1px;width:80%;background-color:#a03fbe;"></div></div>
+       <div align="center"><p><h1><i class="fas fa-star mr-2"></i> GROWING LIGHT <i class="fas fa-star mr-2"></i></h1></p></div>
        <div class="px-3 py-2">
         <ul>
          <li>TEXT</li>
